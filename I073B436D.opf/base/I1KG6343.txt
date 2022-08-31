@@ -1,55 +1,36 @@
-༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།།
+༄༅།། བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།།
 Tibetan Buddhist Resource Center
 Text Scan Input Form - Title Page
-Work:
-LCCN:
-W1KG6294
-n/a
-ImageGroup:
-ISBN:
-11KG6343
-n/a
+Work: W1KG6294 ImageGroup : 11KG6343
+LCCN: n/a ISBN: n/a
 Title:
-གུ་རུའི་ཚིག་བདུན་བླ་སྒྲུབ་དང་འབྲེལ་བའི་ཉེར་མཁོའི་ཞལ་འདོན་ཕྱོགས་བསྒྲིགས། །
-gu ru'i tshig bdun bla sgrub dang 'brel ba'i nyer mkho'i zhal 'don phyogs
+ གུ་རུའི་ཚིག་བདུན་བླ་སྒྲུབ་དང་འབྲེལ་བའི་ཉེར་མཁོའི་ཞལ་འདོན་ཕྱོགས་བསྒྲིགས། །
+gu ru'i tshig bdun bla sgrub dang 'brel ba'i nyer mkho 'i zhal 'don phyogs
 bsgrigs/
 Author:
-Descriptor:
-Original Publication:
-printed from computerized input
-n/a;n/a
-yangleshod
-nagyab pea od ling
-Place:
-Publisher:
-Date:
-12009
+Descriptor: printed from computerized input
+Original Publication: n/a;n/a
+Place: yangleshod
+Publisher: nagyab pea od ling
+Date: 12009
 Volume:
 Total Volumes:
 TBRC Pages:
 Introductory Pages:
-Text Pages:
-Scanning Information:
-n/a
-Scanned at M/S Satluj Infotech Images, E-45, Sector 27 Noida, District Gautam Buddha
-Nagar, U.P. 201301 via New Delhi, IN for the Tibetan Buddhist Resource Center, 150 17th
+Text Pages: n/a
+Scanning Information : Scanned at M /S Satluj Infotech Images, E-45, Sector 27 Noida, District Gautam Buddha
+Nagar, U .P. 201301 via New Delhi, IN for the Tibetan Buddhist Resource Center, 150 17th
 st., New York, NY 10011, U.S.A 2006. Comments: 12/2010
-
-
 
 ESSENTIAL PRAYERS
 RELATED TO THE GURU YOGA PRACTICE
 ACCORDING TO THE SEVEN LINE PRAYER
 
-
-
-༄༅། །གུ་རུའི་ཚིག་བདུན་བླ་སྒྲུབ་དང་འབྲེལ་བའི་ཉེར་མཁོའི་
+༄༅། ། གུ་རུའི་ཚིག་བདུན་བླ་སྒྲུབ་དང་འབྲེལ་བའི་ཉེར་མཁོའི་
 ཞལ་འདོན་ཕྱོགས་བསྒྲིགས་བཞུགས་སོ།།
 ESSENTIAL PRAYERS
 RELATED TO THE GURU YOGA PRACTICE
 ACCORDING TO THE SEVEN LINE PRAYER
-
-
 
 This prayer book was produced at Ngayab Pema Od Ling, Yangleshod, Nepal and
 distributed on the occasion of a drupchen held at Yangleshod 9 - 21 October 2009.
@@ -59,7 +40,7 @@ purpose is to pacify hunger, drought, famine, disease and warfare in the world a
 bring joy and happiness everywhere. In short, the goal is to release all sentient beings
 from the suffering of samsara and bring them to the peace and happiness of nirvana.
 During the drupchen the following mantras were recited one hundred million times
-each:
+each :
 OM AMI DÉWA HRI – The mantra of Amitabha
 OM MANI PÉMA HUNG HRI – The mantra of Avalokiteshvara
 OM AH HUNG BENZRA GURU PÉMA SIDDHI HUNG - The mantra of
@@ -67,36 +48,30 @@ Guru Rinpoche
 Additionally, 100,000 tsog offerings were made at the end of the prayer ceremony.
 We wish to acknowledge the sources for these translations as follows: Palri
 Translations Group, Rigpa Translations, Lotsawa House, Rangjung Yeshe
-Publications, Lhundrup Teng and Elizabeth Callahan. The Palri Translation Group,
-has further edited each of the prayers in this collection.
+Publications, Lhundrup Teng and Elizabeth Callahan . The Palri Translation Group,
+has further edited each of the prayers in this collection .
 Khenpo Namdrol Rinpoche has requested that this prayer book should be freely
 reproduced and distributed for the benefit of all beings.
 The production and printing of this prayer book has been sponsored by Palri Parkhang,
-Ganeshthan, Sheshnarayan-3, PO Pharping, Kathmandu, Nepal 2009
-GLORIOUS MOUNTAIN PRINTERY
+Ganeshthan, Sheshnarayan -3, PO Pharping, Kathmandu, Nepal 2009
 PALRI PARKHANG
-དཔལ་རི་པར་ཁང་།
-j.16
-.
-
-
+GLORIOUS MOUNTAIN PRINTERY
+དཔལ་རི་པར་ཁང་j.16 .
 
 དཀར་ཆག
 འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ།
 ཡན་ལག་བདུན་པ།
 བྱང་སྡོམ་ལེན་ཆོག
-དབང་སྡུད་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན།
+།དབང་སྡུད་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན
 ཚིག་བདུན་བླ་སྒྲུབ་བྱིན་རླབས་ཆར་འབེབས།
 བརྗོད་མེད་དོན་གྱི་བཤགས་པ།
 ཚོགས་མཆོད། །
-༧སྐྱབས་རྗེ་གྲུབ་དབང་པདྨ་ནོར་བུའི་མྱུར་བྱོན་གསོལ་འདེབས། །
-༧གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་ཞབས་བརྟན་གསོལ་འདེབས།
+༧སྐྱབས་རྗེ་གྲུབ་དབང་པདྨ་ནོར་བུའི་མྱུར་བྱོན་གསོལ་འདེབས
+༧གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་ཞབས་བརྟན་གསོལ་འདེབས
 བསྔོ་སྨོན། །
 བཟང་སྤྱོད་སྨོན་ལམ།
 བདེ་སྨོན་བསྡུས་པ།
 ཚེ་རབས་རྗེས་འཛིན་གསོལ་འདེབས།
-
-
 
 Contents
 Verses to the Eight Noble Auspicious Ones
@@ -113,15 +88,12 @@ Aspiration Prayer for Excellent Conduct
 Brief Sukhavati Prayer
 Prayer to the Guru
 
-
-
 ༈ འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ་བཞུགས་སོ།།
 VERSES TO THE EIGHT Noble AUSPICIOUS ONES
 ལས་གང་ཞིག་རྩོམ་པ་ན་ཐོག་མར་འདི་ཚར་གཅིག་བརྗོད་ན་གྲུབ་པ་བདེ་བ་ཡིད་བཞིན་དུ་བྱེད་པར་འགྱུར་
 བས་ཅི་ནས་ཡིད་ལ་བྱའོ།།
-If you recite this once before starting any activity, it will be accomplished with ease and
+If you recite this once before starting any activity, it will be accomplished with ease and .
 exactly as wished. Therefore, commit it to memory.
-.
 ཨོཾ། སྣང་སྲིད་རྣམ་དག་རང་བཞིན་ལྷུན་གྲུབ་པའི། །
 OM NANG SID NAM DAG RANG ZHIN LHUN DRUB PA'I
 OM! To all who dwell in the natural, spontaneously present, perfectly pure
@@ -142,8 +114,6 @@ Drönmed Gyalpo Tsalten, Döndrub Gong,
 JAM PA'I GYEN PAL GÉ DRAG PAL DAM PA
 Jampa'i Gyenpal, Gedrag Paldampa,
 
-
-
 ཀུན་ལ་དགོངས་པ་རྒྱ་ཆེར་གྲགས་པ་ཅན། །
 KUN LA GONG PA GYA CHER DRAG PA CHEN
 Kunla Gongpa, Gyacher Dragpa-chen,
@@ -153,7 +123,7 @@ Lungpo Tarphag, and Tsaldrag Pal
 སེམས་ཅན་ཐམས་ཅད་ལ་དགོངས་གྲགས་པའི་དཔལ། །
 SEM CHEN T'AM CHED LA GONGS DRAG PA'I PAL
 Noble Ones known for your consideration of all sentient beings,
-ཡིད་ཚིམས་མཛད་པ་རྩལ་རབ་གྲགས་དཔལ་ཏེ། །
+ཡིད་ཚིམས་མཛད་པ་རྩལ་རབ་གྲགས་དཔལ་ཏེ
 YI TSIM DZÉ PA TSAL RAB DRAG PAL TÉ
 Known for your superior display of enlightened activities that satisfy the mind,
 མཚན་ཙམ་ཐོས་པས་བཀྲ་ཤིས་དཔལ་འཕེལ་བ། །
@@ -172,75 +142,69 @@ The powerful Avalokiteshvara, the noble protector Maitreya,
 SA YI NYING PO DRIB PA NAM PAR SEL
 Kshitigarbha, Sarvanivarana Vishkambhin,
 
-
-
-ནམ་མཁའི་སྙིང་པོ་འཕགས་མཆོག་ཀུན་ཏུ་བཟང་། །
+ནམ་མཁའི་སྙིང་པོ་འཕགས་མཆོག་ཀུན་ཏུ་བཟང་
 NAM KHA'I NYING PO PHAG CHOG KUN TU ZANG
-Akashagarbha, and the most noble Samantabhadra-
+Akashagarbha, and the most noble Samantabhadra
 ཨུཏྤལ་རྡོ་རྗེ་པད་དཀར་ཀླུ་ཤིང་དང་། །
 UT PAL DOR JÉ PED KAR LU SHING DANG
 Utpala flower, vajra, white lotus, naga tree,
 ནོར་བུ་ཟླ་བ་རལ་གྲི་ཉི་མ་ཡི། །
 NORBU DA WA RAL DRI NYI MA YI
 Wish-fulfilling jewel, sword, sun and moon,
-ཕྱག་མཚན་ལེགས་བསྣམས་བཀྲ་ཤིས་དཔལ་གྱི་མཆོག །
+ཕྱག་མཚན་ལེགས་བསྣམས་བཀྲ་ཤིས་དཔལ་གྱི་མཆོག 
 CHAG TSEN LEG NAM TRA SHI PAL GYI CHOG
 Holding the excellent hand emblems of supreme noble good fortune.
-བྱང་ཆུབ་སེམས་དཔའ་བརྒྱད་ལ་ཕྱག་འཚལ་ལོ། །
+བྱང་ཆུབ་སེམས་དཔའ་བརྒྱད་ལ་ཕྱག་འཚལ་ལོ
 JANG CHUB SEM PA GYÉ LA CHAG TSAL LO
 I prostrate to the eight bodhisattvas!
-རིན་ཆེན་གདུགས་མཆོག་བཀྲ་ཤིས་གསེར་གྱི་ཉ། །
+རིན་ཆེན་གདུགས་མཆོག་བཀྲ་ཤིས་གསེར་གྱི་ཉ
 RIN CHEN DUG CHOG TRA SHI SER GYI NYA
 You who hold the supreme jeweled umbrella, the auspicious golden fish,
-འདོད་འབྱུང་བུམ་བཟང་ཡིད་འོང་ཀཱ་མ་ལ། །
+འདོད་འབྱུང་བུམ་བཟང་ཡིད་འོང་ཀཱ་མ་ལ
 DÖ JUNG BUMZANG YID ONG KA MA LA
 The wish-fulfilling vase, the exquisite kamala flower,
-སྙན་གྲགས་དུང་དང་ཕུན་ཚོགས་དཔལ་བེའུ། །
+སྙན་གྲགས་དུང་དང་ཕུན་ཚོགས་དཔལ་བེའུ
 NYEN DRAG DUNG DANG PHUN TSOG PAL BÉ'U
 The conch of fame and glory, the fully endowed endless knot,
-མི་ནུབ་རྒྱལ་མཚན་དབང་སྒྱུར་འཁོར་ལོ་སྟེ། །
+མི་ནུབ་རྒྱལ་མཚན་དབང་སྒྱུར་འཁོར་ལོ་སྟེ
 MI NUB GYAL TSEN WĂNG GYUR KHOR LO TÉ
-The eternal victory banner, and the all-powerful wheel-
+The eternal victory banner, and the all-powerful wheel
 
-
-
-Offering these eight supreme precious emblems
 རིན་ཆེན་རྟགས་མཆོག་བརྒྱད་ཀྱི་ཕྱག་མཚན་ཅན། །
 RIN CHEN TAG CHOG GYÉ KYI CHAG TSEN CHEN
+Offering these eight supreme precious emblems
 ཕྱོགས་དུས་རྒྱལ་བ་མཆོད་ཅིང་དགྱེས་སྐྱེད་མ། །
 CHOG DU GYAL WA CHOD CING GYÉ KYÉ MA
+To the victorious ones of all directions and times,
 སྒེག་སོགས་ངོ་བོ་དྲན་པས་དཔལ་སྤེལ་བའི། །
 GÉG SO NGO WO DREN PÉ PAL PEL WA'I
-བཀྲ་ཤིས་ལྷ་མོ་བརྒྱད་ལ་ཕྱག་འཚལ་ལོ། །
-To the victorious ones of all directions and times,
 Attractive maidens of pleasure, recalling your nature increases all that is noble.
+བཀྲ་ཤིས་ལྷ་མོ་བརྒྱད་ལ་ཕྱག་འཚལ་ལོ། །
 TRA SHI LHA MO GYÉ LA CHAG TSAL LO
 I prostrate to the eight goddesses of good fortune!
-Mahabrahma, Maheswara, Vishnu,
-Indra of a thousand-eyes, and the guardian kings Dhritirastra,
 ཚངས་པ་ཆེན་པོ་བདེ་འབྱུང་སྲེད་མེད་བུ། །
 TSANG PA CHEN PO DÉ JUNG SÉ MÉ BU
+Mahabrahma, Maheswara, Vishnu,
 མིག་སྟོང་ལྡན་དང་རྒྱལ་པོ་ཡུལ་འཁོར་སྲུང་། །
 MIG TONG DEN DANG GYAL PO YUL KHOR SUNG
+Indra of a thousand-eyes, and the guardian kings Dhritirastra,
 འཕགས་སྐྱེས་པོ་དང་ཀླུ་དབང་མིག་མི་བཟང་། །
 PHAG KYÉ PO DANG LU WANG MIG MI ZANG
+Virudhaka, the naga king, Virupaksa and
 རྣམ་ཐོས་སྲས་ཏེ་ལྷ་རྫས་འཁོར་ལོ་དང་། །
 NAM TÕ SÉ TÉ LHA DZÉ KHOR LO DANG
+Vaishravana, holders of these celestial articles: wheel,
 ཏྲི་ཤུ་ལ་དང་མདུང་ཐུང་རྡོ་རྗེ་ཅན། །
 TRI SHU LA DANG DUNG TUNG DOR JÉ CHEN
-Virudhaka, the naga king, Virupaksa and
-Vaishravana, holders of these celestial articles: wheel,
 Trident, short spear, vajra,
 
-
-
-Vina, sword, stupa and victory banner,
 པི་ཝཾ་རལ་གྲི་མཆོད་རྟེན་རྒྱལ་མཚན་འཛིན། །
 PI WANG RAL DRI CHO TEN GYAL TSEN DZIN
+Vina, sword, stupa and victory banner,
 ས་གསུམ་གནས་སུ་དགེ་ལེགས་བཀྲ་ཤིས་སྤེལ། །
 SA SUM NÉ SU GÉ LEG TRA SHI PEL
-འཇིག་རྟེན་སྐྱོང་བ་བརྒྱད་ལ་ཕྱག་འཚལ་ལོ། །
 You make auspiciousness and positivity grow in the three realms.
+འཇིག་རྟེན་སྐྱོང་བ་བརྒྱད་ལ་ཕྱག་འཚལ་ལོ། །
 JIG TEN KYONG WA GYÉ LA CHAG TSAL LO
 I prostrate to the eight guardians of the world!
 བདག་ཅག་དེང་འདིར་བྱ་བ་རྩོམ་པ་ལ། །
@@ -255,17 +219,14 @@ May glory and endowments increase and may all wishes be accomplished!
 བཀྲ་ཤིས་བདེ་ལེགས་ཕུན་སུམ་ཚོགས་པར་ཤོག །
 TRA SHI DÉ LEG PHUN SUM TSOG PAR SHOG
 May all good fortune, happiness and prosperity result!
-རྫོ
 ལྡང་ཚེ་བརྗོད་ན་དེ་ཉིན་དོན་ཀུན་འགྲུབ། །ཉལ་ཚེ་བརྗོད་ན་རྨི་ལམ་བཟང་པོ་མཐོང་། །གཡུལ་དུ་འཇུག་ཚེ་
-བརྗོད་ན་ཕྱོགས་ལས་རྒྱལ། །བྱ་བ་རྩོམ་དུས་བརྗོད་ན་འདོད་དོན་འཕེལ། །རྒྱུན་དུ་བརྗོད་ན་ཚེ་དཔལ་
+རྫོབརྗོད་ན་ཕྱོགས་ལས་རྒྱལ། །བྱ་བ་རྩོམ་དུས་བརྗོད་ན་འདོད་དོན་འཕེལ། །རྒྱུན་དུ་བརྗོད་ན་ཚེ་དཔལ་
 གྲགས་འབྱོར་ཤིས། །བདེ་ལེགས་ཕུན་ཚོགས་བསམ་དོན་ཡིད་བཞིན་འགྲུབ། །སྡིག་སྒྲིབ་ཀུན་བྱང་མངོན་
 མཐོ་ངེས་ལེགས་ཀྱི། །དོན་ཀུན་འགྲུབ་པ་རྒྱལ་བ་མཆོག་གིས་གསུངས། །རབ་ཚེས་མེ་སྤྲེལ་ཟླ་བ་
 5
 
-
-
 གསུམ་པའི་ཚེས་གསུམ་གཟའ་ཉི་མ་དང་རྒྱུ་སྐར་རྒྱལ་གྱི་དུས་བཟང་པོའི་ཆ་ལ་འཇམ་དཔལ་དགྱེས་པའི་
-རྡོ་རྗེའི་ཡིད་མཚོ་ལས་བྱུང་བའི་ནོར་བུའི་དོ་ཤལ་ཆེན་པོའོ།། །
+རྡོ་རྗེའི་ཡིད་མཚོ་ལས་བྱུང་བའི་ནོར་བུའི་དོ་ཤལ་ཆེན་པོའོ
 If you recite this prayer upon waking, all your daily tasks will be accomplished. If you
 recite it when going to sleep, you will have good dreams. If you recite it when
 entering battle, it will bring total victory. If you recite it when beginning a project,
@@ -275,79 +236,71 @@ the fulfillment of all wishes; all your misdeeds and obscurations will be purifi
 you will achieve the higher realms and liberation. This was declared by the sublime
 Victorious One himself.
 This arose from the lake of the mind of Jampal Gyepé Dorjé on the third day of the
-third month of the Fire Monkey year (1896), an auspicious time according to the
+third month of the Fire Monkey year (1896 ), an auspicious time according to the
 configuration of planets, sun and constellations.
-Mangalam!
-
-
+Mangalam !
 
 ཡན་ལག་བདུན་པ་ནི།
 Seven BRANCH PRAYER
-༈ འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།
+འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།
+༈ 
 from The King of Aspiration Prayers for Excellent Conduct
-འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། ། །
+འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ
 PHAG PA JAM PAL ZHON NUR GYUR PA LA CHAG TSAL LO
 I pay homage to the noble Manjushri.
-ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །
+ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན
 JI NYE SU DAG CHOG CHUI JIG TEN NA
 To those, in the worlds of the ten directions, however many there may be,
-དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་ཀུན། །
+དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་ཀུན
 DU SUM SHEG PA MI YI SENG GÉ KUN
 All the lions among humans who appear during the three times—
-བདག་གི་མ་ལུས་དེ་དག་ཐམས་ཅད་ལ། །
+བདག་གི་མ་ལུས་དེ་དག་ཐམས་ཅད་ལ
 DAG GI MA LÜ DÉ DAG T'AM CHÉ LA
 To all of them without exception
-ལུས་དང་ངག་ཡིད་དང་བས་ཕྱག་བགྱི་འོ། །
+ལུས་དང་ངག་ཡིད་དང་བས་ཕྱག་བགྱི་འོ
 LÜ DANG NGAG YI DANG WÉ CHAG GYIO
 I pay homage with respectful body, speech, and mind.
-བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་སྟོབས་དག་གིས། །
+བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་སྟོབས་དག་གིས
 ZANG PO CHÖ PA'I MON LAM TOB DAG GI
 The force of my Aspiration Prayer for Excellent Conduct
-རྒྱལ་བ་ཐམས་ཅད་ཡིད་ཀྱི་མངོན་སུམ་དུ། །
+རྒྱལ་བ་ཐམས་ཅད་ཡིད་ཀྱི་མངོན་སུམ་དུ
 GYAL WA TAM CHE YID KYI NGON SUM DU
 Brings all the victorious ones directly to mind;
 
-
-
-ཞིང་གི་རྡུལ་སྙེད་ལུས་རབ་བཏུད་པ་ཡིས། །
+ཞིང་གི་རྡུལ་སྙེད་ལུས་རབ་བཏུད་པ་ཡིས
 ZHING GI DUL NYÉ LÜ RAB TÜ PA YI
 Bowing down with bodies as numerous as atoms in the realms,
 རྒྱལ་བ་ཀུན་ལ་རབ་ཏུ་ཕྱག་འཚལ་ལོ། །
 GYAL WA KUN LA RAB TU CHAG TSAL LO
 I prostrate to all the victorious ones.
-རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་སངས་རྒྱས་རྣམས། །
+རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་སངས་རྒྱས་རྣམས
 DUL CHIG TENG NA DUL NYÉ SANGYÉ NAM
 In a single particle of dust are buddhas as numerous as atoms,
-སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་དག །
+སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་དག 
 SANGYÉ SÉ KYI WU NA ZHUG PA DAG
 Each residing in the midst of their sons and daughters;
-དེ་ལྟར་ཆོས་ཀྱི་དབྱིངས་རྣམས་མ་ལུས་པ། །
+དེ་ལྟར་ཆོས་ཀྱི་དབྱིངས་རྣམས་མ་ལུས་པ
 DÉ TAR CHÖ KYI YING NAM MA LU PA
 In the same way, I imagine that the entire dharmadhatu
-ཐམས་ཅད་རྒྱལ་བ་དག་གིས་གང་བར་མོས། །
+ཐམས་ཅད་རྒྱལ་བ་དག་གིས་གང་བར་མོས
 T'AM CHÉ GYAL WA DAG GYI GANG WAR MO
 Is completely filled with victorious ones.
-དེ་དག་བསྔགས་པ་མི་ཟད་རྒྱ་མཚོ་རྣམས། །
+དེ་དག་བསྔགས་པ་མི་ཟད་རྒྱ་མཚོ་རྣམས
 DÉ DAG NGAG PA MÉ ZÉD GYA TSO NAM
 To those with oceans of inexhaustible praise-worthy qualities,
-དབྱངས་ཀྱི་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་ཀུན་གྱིས། །
+དབྱངས་ཀྱི་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་ཀུན་གྱིས
 YANG KYI YAN LAG GYA TSO'I DRA KUN GYI
 With sounds containing oceans of tones of melodious speech,
-རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང་། །
+རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང་
 GYAL WA KUN GYI YÖN TEN RAB JÖ CHING
 I express the qualities of all the victorious ones,
 
-
-
--
--
--
-With the finest flowers, the finest garlands,
 བདེ་བར་གཤེགས་པ་ཐམས་ཅད་བདག་གིས་བསྟོད། །
 DÉ WAR SHEG PA T'AM CHÉ DAG GYI TÖ
 I praise all the sugatas.
-མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང༌། །
+མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང༌
 MÉ TOK DAM PA TRENG WA DAM PA DANG
+With the finest flowers, the finest garlands,
 སིལ་སྙན་རྣམས་དང་བྱུག་པ་གདུགས་མཆོག་དང་། ། །
 SIL NYEN NAM DANG JUG PA DUG CHOG DANG
 Music, ointments, supreme parasols,
@@ -359,7 +312,8 @@ GYAL WA DÉ DAG LA NI CHÖ PAR GYI
 I make offerings to the victorious ones.
 ན་བཟའ་དམ་པ་རྣམས་དང་དྲི་མཆོག་དང་། །
 NA ZA DAM PA NAM DANG DRI CHOG DANG
-ཕྱེ་མ་ཕུར་མ་རི་རབ་མཉམ་པ་དང༌། །
+With the finest cloth, supreme scent,
+ཕྱེ་མ་ཕུར་མ་རི་རབ་མཉམ་པ་དང༌
 CHÉ MA PHUR MA RI RAB NYAM PA DANG
 And fine powder equal to Mount Meru,
 བཀོད་པ་ཁྱད་པར་འཕགས་པའི་མཆོག་ཀུན་གྱིས། །
@@ -368,74 +322,61 @@ All displayed in supreme and magnificent ways,
 རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱི། །
 GYAL WA DÉ DAG LA NI CHÖ PAR GYI
 I make offerings to the victorious ones.
-With the finest cloth, supreme scent,
---
--
---
--
----
--
 
-
-
-With vast unsurpassable offerings
 མཆོད་པ་གང་རྣམས་བླ་མེད་རྒྱ་ཆེ་བ། །
 CHỖ PA GANG NAM LA MÉ GYA CHÉ WA
+With vast unsurpassable offerings
 དེ་དག་རྒྱལ་བ་ཐམས་ཅད་ལ་ཡང་མོས། །
 DÉ DAG GYAL WA T'AM CHÉ LA YANG MÖ
-བཟང་པོ་སྤྱོད་ལ་དད་པའི་སྟོབས་དག་གིས། །
 I venerate all the victorious ones.
+བཟང་པོ་སྤྱོད་ལ་དད་པའི་སྟོབས་དག་གིས། །
 ZANG PO CHÖ LA DÉ PA'I TOB DAG GYI
 Through the power of faith in excellent conduct
-I prostrate and make offerings to the victorious ones.
-Overpowered by desire, aggression, and stupidity,
 རྒྱལ་བ་ཀུན་ལ་ཕྱག་འཚལ་མཆོད་པར་བགྱི། །
 GYAL WA KUN LA CHAG TSAL CHÖ PAR GYI
+I prostrate and make offerings to the victorious ones.
 འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དབང་གིས་ནི། །
 DÖ CHAG ZHÉ DANG TI MUG WANG GYI NI
+Overpowered by desire, aggression, and stupidity,
 ལུས་དང་ངག་དང་དེ་བཞིན་ཡིད་ཀྱིས་ཀྱང་། །
 LÜ DANG NGAG DANG DÉ ZHIN YI KYI KYANG
+With my body, speech, and also mind
 སྡིག་པ་བདག་གིས་བགྱིས་པ་ཅི་མཆིས་པ། །
 DIG PA DAG GYI GYI PA CHI CHI PA
+Whatever negative actions I have performed,
 དེ་དག་ཐམས་ཅད་བདག་གིས་སོ་སོར་བཤགས། །
 DÉ DAG T'AM CHÉ DAG GYI SO SOR SHAG
-I confess each and every one of them.
+I confess each and every one of them .
 ཕྱོགས་བཅུའི་རྒྱལ་བ་ཀུན་དང་སངས་རྒྱས་སྲས། །
-With my body, speech, and also mind
-Whatever negative actions I have performed,
 CHOG CHU'I GYAL WA KUN DANG SANGYÉ SÉ
 In the merit of the victorious ones of the ten directions, the bodhisattvas,
 10
-
-
 
 རང་རྒྱལ་རྣམས་དང་སློབ་དང་མི་སློབ་དང་། །
 RANG GYAL NAM DANG LOB DANG MI LOB DANG
 In the merit of the pratyekabuddhas, those in training and those beyond
 training,
-In the merit of all beings whatsoever_
-Lamps of the worlds of the ten directions —
 འགྲོ་བ་ཀུན་གྱི་བསོད་ནམས་གང་ལ་ཡང་། །
 DRO WA KUN GYI SO NAM GANG LA YANG
+In the merit of all beings whatsoever_
 དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་ཡི་རང་། །
 DÉ DAG KUN GYI JE SU DAG YI RANG
 In all this merit I rejoice.
 གང་རྣམས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་སྒྲོན་མ་རྣམས། །
 GANG NAM CHOG CHU'I JIG TEN DRÖN MA NAM
+Lamps of the worlds of the ten directions —
 བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་མ་ཆགས་བརྙེས། །
 JANG CHUB RIM PAR SANGYÉ MA CHAG NYÉ
+Traveling the stages of awakening, attaining buddhahood beyond attachment -
 མགོན་པོ་དེ་དག་བདག་གིས་ཐམས་ཅད་ལ། །
 GÖN PO DÉ DAG DAG GYI T'AM CHÉ LA
 All these protectors,
 འཁོར་ལོ་བླ་ན་མེད་པ་བསྐོར་བར་བསྐུལ། །
 KHOR LO LA NA MÉ PA KOR WAR KUL
+I request you, turn the unsurpassable dharma wheel.
 མྱ་ངན་འདའ་སྟོན་གང་བཞེད་དེ་དག་ལ། །
 NYA NGEN DA TÖN GANG ZHÉ DÉ DAG LA
-Traveling the stages of awakening, attaining buddhahood beyond attachment -
-I request you, turn the unsurpassable dharma wheel.
 Those who intend to demonstrate nirvana
-
-
 
 འགྲོ་བ་ཀུན་ལ་ཕན་ཞིང་བདེ་བའི་ཕྱིར། །
 DRO WA KUN LA PHEN ZHING DÉ WA'I CHIR
@@ -459,41 +400,37 @@ Whatever slight virtue is accumulated —
 TAM CHE DAG GI JANG CHUB CHIR NGOo
 I dedicate it all to enlightenment.
 
-
-
 ༄༅། །བྱང་སྡོམ་ལེན་ཆོག
 BODHISATTVA Vow CEREMONY
 གསོལ་བ་འདེབས་པ་ནི།
 REQUESTING THE BUDDHAS AND BODHISATTVAS
-DANG
-༈ ཕྱོགས་བཅུ་ན་བཞུགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཐམས་ཅད་དང་།
+ཕྱོགས་བཅུ་ན་བཞུགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཐམས་ཅད་དང་
+༈ 
 CHOG CHU NA ZHUG PA'I SANGYÉ CHOM DEN DÉ T'AM CHÉ
+DANG
 All you buddhas who dwell in the ten directions
-ས་བཅུ་ལ་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དང་།
+ས་བཅུ་ལ་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དང་
 SA CHU LA NÉ PA'I JANG CHUB SEM PA SEM PA CHEN PO NAM
 DANG
 You bodhisattvas and mahasattvas on the ten levels,
-You lamas, great vajra-holders, turn your mind towards me, I pray!
 བླ་མ་རྡོ་རྗེ་འཛིན་པ་ཆེན་པོ་རྣམས་བདག་ལ་དགོངས་སུ་གསོལ།
 LAMA DOR JÉ DZIN PA CHEN PO NAM DAG LA GONG SU SOL
+You lamas, great vajra-holders, turn your mind towards me, I pray!
 ༈ སྐྱབས་འགྲོ།
 TAKING REFUGE
 བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར།།
 JANG CHUB NYING POR CHI KYI BAR
+Until I attain the essence of enlightenment,
 སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི།།
 SANGYÉ NAM ĻA KYAB SU CHI
+I take refuge in the buddhas.
 ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི།།
 CHÖ DANG JANG CHUB SEM PA YI
-Until I attain the essence of enlightenment,
-I take refuge in the buddhas.
 To the Dharma and the assembly of bodhisattvas
-
-
 
 ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི།། ལན་གསུམ།
 TSOG LA'ANG DÉ ZHIN KYAB SU CHI
-I go for refuge.
-(Recite three times)
+I go for refuge. (Recite three times)
 ༈ སེམས་བསྐྱེད། །
 AROUSING BODHICITTA
 ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས།།
@@ -505,7 +442,7 @@ Aroused bodhicitta and then in stages
 བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ།།
 JANG CHUB SEM PA'I LAB PA LA
 Trained themselves in skilful practice
-དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར།།
+དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར
 DÉ DAG RIM ZHIN NÉ PA TAR
 On the genuine path of the bodhisattvas
 དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ།།
@@ -519,19 +456,13 @@ DÉ ZHIN DU NI LAB PA LA'ANG
 And train myself for the good of others
 14
 
-
-
--
--
---
--
 རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི།།
 RIM PA ZHIN DU LAB PAR GYI
 Gradually, as a bodhisattva should.
 ཞེས་ལན་གསུམ་གྱིས་སེམས་བསྐྱེད་བླངས་ལ། མཇུག་ཏུ་གཟེངས་བསྟོད་ཅིང་དགའ་བ་སྒོམ་པ་ནི། །
 On reciting this three times, you will have taken the vow of arousing bodhicitta.
 At the end comes praise and rejoicing:
-དེང་དུས་བདག་ཚེ་འབྲས་བུ་ཡོད།།
+དེང་དུས་བདག་ཚེ་འབྲས་བུ་ཡོད
 DENG DÜ DAG TSÉ DRÉ BU YÖ
 Now my life has great significance,
 མི་ཡི་སྲིད་པ་ལེགས་པར་ཐོབ།།
@@ -546,7 +477,7 @@ As a son or daughter of the noble kind.
 ད་ནི་བདག་གིས་ཅི་ནས་ཀྱང་།།
 DA NI DAG GYI CHI NÉ KYANG
 From this day on, come what may,
-རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ།
+རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ །
 RIG DANG T'UN PA'ILÉ TSAM TÉ
 I will act only in an appropriate way,
 སྐྱོན་མེད་བཙུན་པའི་རིགས་འདི་ལ།།
@@ -554,18 +485,16 @@ KYON MÉ TSUN PÉ RIG DI LA
 And never shall I bring disgrace
 15
 
-
-
-རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ།།
+རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ
 NYOG PAR MI GYUR DÉ TAR JA
 Upon this flawless, noble race.
 ལོང་བས་ཕྱག་དར་ཕུང་པོ་ལས།།
 LONG WÉ CHAG DAR PHUNG PO LÉ
 For like a beggar, poor and blind,
-ཇི་ལྟར་རིན་ཆེན་རྙེད་པ་ལྟར།།
+ཇི་ལྟར་རིན་ཆེན་རྙེད་པ་ལྟར
 JI TAR RIN CHEN NYÉ PA TAR
 Who, by chance, a jewel might find
-དེ་བཞིན་ཇི་ཞིག་ལྟར་སྟེས་ནས།།
+དེ་བཞིན་ཇི་ཞིག་ལྟར་སྟེས་ནས
 DÉ ZHIN JI ZHIG TAR TÉ NÉ
 In heaps of filthy dirt and litter,
 བྱང་ཆུབ་སེམས་འདི་བདག་ལ་སྐྱེས།།
@@ -584,8 +513,6 @@ And before that to ordinary joys.
 LHA DANG LHA MIN LA SO GA WAR GYI
 May gods, asuras and others rejoice!
 16
-
-
 
 ༈ སྨོན་ལམ་གྱི་རིམ་པ་ནི།
 ASPIRATION PRAYERS
@@ -614,54 +541,52 @@ May they be cared for by the buddhas, and
 DÜ KYI LÉ NAM PONG WAR SHOG
 May they abandon harmful action.
 
-
-
-For benefiting beings be fulfilled.
 བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི།།
 JANG CHUB SEM PA NAM KYI NI
 May the bodhisattvas' good wishes
-འགྲོ་དོན་ཐུགས་ལ་དགོངས་འགྲུབ་ཤོག །
+འགྲོ་དོན་ཐུགས་ལ་དགོངས་འགྲུབ་ཤོག 
 DRO DÖN T'UG LA GONG DRUB SHOG
+For benefiting beings be fulfilled.
 མགོན་པོ་ཡིས་ནི་གང་དགོངས་པ།།
 GÖN PO YI NI GANG GONG PA
 Whatever the protectors have intended for them
 སེམས་ཅན་རྣམས་ལའང་དེ་འབྱོར་ཤོག །
 SEM CHEN NAM LA'ANG DÉ JOR SHOG
-སེམས་ཅན་ཐམས་ཅད་བདེ་དང་ལྡན་གྱུར་ཅིག །
+May sentient beings receive it.
+སེམས་ཅན་ཐམས་ཅད་བདེ་དང་ལྡན་གྱུར་ཅིག 
 SEM CHEN T'AM CHÉ DÉ DANG DEN GYUR CHIG
 May all sentient beings be happy.
-ངན་འགྲོ་ཐམས་ཅད་རྟག་ཏུ་སྟོང་བར་ཤོག །
+ངན་འགྲོ་ཐམས་ཅད་རྟག་ཏུ་སྟོང་བར་ཤོག 
 NGEN DRO T'AM CHÉ TAG TU TONG WAR SHOG
 May all the lower realms be forever empty.
-བྱང་ཆུབ་སེམས་དཔའ་གང་དག་སར་བཞུགས་པ།།
+བྱང་ཆུབ་སེམས་དཔའ་གང་དག་སར་བཞུགས་པ
 JANG CHUB SEM PA GANG DAG SAR ZHUG PA
 May the aspirations of all the bodhisattvas
-དེ་དག་ཀུན་གྱི་སྨོན་ལམ་འགྲུབ་པར་ཤོག །
+དེ་དག་ཀུན་གྱི་སྨོན་ལམ་འགྲུབ་པར་ཤོག 
 DÉ DAG KUN GYI MON LAM DRUB PAR SHOG
-May sentient beings receive it.
 Of the various bhumis be fulfilled!
 
-
-
-༄༅། །སྣང་སྲིད་དབང་དུ་སྡུད་པའི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན་བཞུགས་སོ།།
+སྣང་སྲིད་དབང་དུ་སྡུད་པའི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན་བཞུགས་སོ
+༄༅། །
 THE PRAYER THAT MAGNETIZES ALL THAT APPEARS AND Exists:
 THE GREAT CLOUD OF BLESSINGS
-ཨོཾ་ཨཱ༔ཧཱུྃ་ཧཱུྃ༔ བདེ་ཆེན་འབར་བ་དབང་གི་ཕོ་བྲང་དུ། །
+བདེ་ཆེན་འབར་བ་དབང་གི་ཕོ་བྲང་དུ
+ཨོཾ་ཨཱ༔ཧཱུྃ་ཧཱུྃ༔ 
 OM AH HUNG HRI DÉ CHEN BAR WA WANG GI PHO DRANG DU
 OM AH HUNG HRI! In the palace of power, the blazing of great bliss,
-བདེ་སྟོང་སོ་སོར་རྟོགས་པའི་ཡེ་ཤེས་སྐུ། །
+བདེ་སྟོང་སོ་སོར་རྟོགས་པའི་ཡེ་ཤེས་སྐུ
 DÉ TONG SO SOR TOG PA'I YÉ SHÉ KU
 Are avatars of discerning wisdom, union of bliss and emptiness,
-མ་ཆགས་བདེ་ལྡན་པདྨའི་རང་བཞིན་ལས། །
+མ་ཆགས་བདེ་ལྡན་པདྨའི་རང་བཞིན་ལས
 MA CHAG DÉ DEN PÉMA'I RANG ZHIN LÉ
 Each on a lotus, by nature bliss free from all attachment,
-རྡོ་རྗེ་ཉི་མ་སྣང་བ་ཆེན་པོའི་དཔལ། །
+རྡོ་རྗེ་ཉི་མ་སྣང་བ་ཆེན་པོའི་དཔལ
 DOR JÉ NYI MA NANG WA CHEN PÖ'I PAL
 And the glory of a great, illuminating vajra sun.
-ཆོས་སྐུ་སྣང་བ་མཐའ་ཡས་རྡོ་རྗེ་ཆོས། །
+ཆོས་སྐུ་སྣང་བ་མཐའ་ཡས་རྡོ་རྗེ་ཆོས
 CHÖ KU NANG WA T'A YÉ DOR JÉ CHÖ
 Dharmakaya Amitabha and Vajradharma,
-འཇིག་རྟེན་དབང་ཕྱུག་ཐུགས་རྗེའི་རྗེས་ཆགས་གཟུགས། །
+འཇིག་རྟེན་དབང་ཕྱུག་ཐུགས་རྗེའི་རྗེས་ཆགས་གཟུགས
 JIG TEN WANG CHUG TUG JEI JÉ CHAGZUG
 Lord of the World, the very manifestation of compassion,
 པདྨ་རྒྱལ་པོས་འཁོར་འདས་མངའ་དབང་བསྒྱུར། །
@@ -669,66 +594,60 @@ PÉMA GYAL PO KHOR DÉ NGA WANG GYUR
 Pema Gyalpo, all of samsara and nirvana beneath his control,
 19
 
-
-
-སྣང་སྲིད་ཟིལ་གནོན་དབང་ཆེན་ཧེ་རུ་ཀ །
+སྣང་སྲིད་ཟིལ་གནོན་དབང་ཆེན་ཧེ་རུ་ཀ 
 NANG SI ZIL NON WANG CHEN HERUKA
 Powerful heruka Hayagriva, subjugator of all that appears and exists,
 གསང་བ་ཡེ་ཤེས་བཛྲ་ཝཱ་རཱ་ཧི། །
 SANG WA YÉ SHÉ BENZRA WARAHI
 Guhyajnana and Vajravarahi,
-བདེ་མཆོག་འདོད་པའི་རྒྱལ་པོ་བདེ་ཆེན་གཏེར། །
+བདེ་མཆོག་འདོད་པའི་རྒྱལ་པོ་བདེ་ཆེན་གཏེར
 DÉ CHOG DÖ PA'I GYAL PO DÉ CHEN TER
 Döpé Gyalpo, ecstasy supreme, source of the treasure of great bliss,
-མ་ལུས་སྐྱེ་རྒུའི་ཡིད་འཕྲོག་རིག་བྱེད་མ། །
+མ་ལུས་སྐྱེ་རྒུའི་ཡིད་འཕྲོག་རིག་བྱེད་མ
 MA LÜ KYÉ GU'I YI T'ROG RIG JÉ MA
 Kurukulla, who captivates the mind of every living being without exception,
-མཆོག་ཐུན་ཕྱག་རྒྱའི་དབང་ཕྱུག་བདེ་སྟོང་གར། །
+མཆོག་ཐུན་ཕྱག་རྒྱའི་དབང་ཕྱུག་བདེ་སྟོང་གར
 CHOG T'UN CHAG GYÉ'I WANG CHUG DÉ TONG GAR
 Sovereigns of supreme and ordinary mudras, dancing in bliss and emptiness,
-དབང་མཛད་རྡོ་རྗེ་དཔའ་བོ་ཌཱཀྐིའི་ཚོགས། །
+དབང་མཛད་རྡོ་རྗེ་དཔའ་བོ་ཌཱཀྐིའི་ཚོགས
 WANG ZÉ DOR JÉ PA WO DA KI'I TSOG
 Hosts of vajra dakas and dakinis who attract and magnetize.
 སྣང་སྟོང་མཉམ་པ་ཆེན་པོའི་ངང་ཉིད་དུ། །
 NANG TONG NYAM PA CHEN PO'I NGANG NYI DU
 Remaining always in the state of great equality of appearance and emptiness,
-རྡོ་རྗེ་སྐུ་ཡི་གར་གྱིས་སྲིད་གསུམ་གཡོ། །
+རྡོ་རྗེ་སྐུ་ཡི་གར་གྱིས་སྲིད་གསུམ་གཡོ
 DOR JÉ KU YI GAR GYI SI SUM YO
 With the dance of your vajra body, you cause the three planes of existence to
 tremble;
 20
 
-
-
-འགགས་མེད་གསུང་གི་བཞད་སྒྲས་ཁམས་གསུམ་འགུགས། །
+འགགས་མེད་གསུང་གི་བཞད་སྒྲས་ཁམས་གསུམ་འགུགས
 GAG MÉ SUNG GI ZHÉ DRÉ KHAM SUM GUG
 With the sound of your laughter, unceasing speech, you invoke the three realms;
-འོད་ཟེར་དམར་པོས་འཁོར་འདས་ཡོངས་ལ་ཁྱབ། །
+འོད་ཟེར་དམར་པོས་འཁོར་འདས་ཡོངས་ལ་ཁྱབ
 ÖZER MAR PÖ KHOR DÉ YONG LA KHYAB
 Rays of red light burst out to fill all of samsara and nirvana
-སྲིད་ཞིའི་དྭངས་བཅུད་གཡོ་ཞིང་སྡུད་པར་བྱེད། །
+སྲིད་ཞིའི་དྭངས་བཅུད་གཡོ་ཞིང་སྡུད་པར་བྱེད
 SI ZHI'I DANG CHU'I YO ZHING DÜ PAR JÉ
 And cause the vital essence of existence and peace to vibrate and be gathered in.
-རྡོ་རྗེ་ཆགས་པ་ཆེན་པོའི་ཐུགས་ཀྱིས་ནི། །
+རྡོ་རྗེ་ཆགས་པ་ཆེན་པོའི་ཐུགས་ཀྱིས་ནི
 DOR JÉ CHAG PA CHEN PO'I T'UG KYI NI
 With your enlightened mind of great vajra passion,
-རྣམ་གཉིས་དངོས་གྲུབ་འདོད་རྒུའི་མཆོག་སྩོལ་ཞིང་། །
+རྣམ་གཉིས་དངོས་གྲུབ་འདོད་རྒུའི་མཆོག་སྩོལ་ཞིང་
 NAM NYI NGÖ DRUB DÖ GU'I CHOG TSOL ZHING
-You grant the supreme of all things desired—the two kinds of siddhis;
-རྡོ་རྗེ་ལྕགས་ཀྱུ་ཞགས་པ་ཆེན་པོ་ཡིས། །
+You grant the supreme of all things desired— the two kinds of siddhis;
+རྡོ་རྗེ་ལྕགས་ཀྱུ་ཞགས་པ་ཆེན་པོ་ཡིས
 DOR JÉ CHAG KYU ZHAG PA CHEN PO YI
 And with your great vajra hooks and lassos
 སྣང་སྲིད་བདེ་བ་ཆེན་པོར་སྡོམ་བྱེད་པ། །
 NANG SI DÉ WA CHEN POR DOM JÉ PA
 You bind the world of appearance and existence in great bliss.
-མཐའ་ཡས་སྒྱུ་འཕྲུལ་དྲྭ་བའི་རོལ་གར་ཅན། །
+མཐའ་ཡས་སྒྱུ་འཕྲུལ་དྲྭ་བའི་རོལ་གར་ཅན
 TA YÉ GYƯTRUL DRAWAI ROL GAR CHEN
 Dancers in the play of the limitless net of illusion,
 ཏིལ་གྱི་གོང་བུ་ཕྱེ་བ་བཞིན་བཞུགས་པའི། །
 TIL GYI GONG BU CHÉ WA ZHIN ZHUG PA'I
 Who fill space to overflowing, like a vast outpouring of sesame seeds,
-
-
 
 རབ་འབྱམས་རྩ་གསུམ་དབང་གི་ལྷ་ཚོགས་ལ། །
 RAB JAM TSA SUM WANG GI LHA TSOG LA
@@ -742,8 +661,10 @@ Grant us attainments, ordinary and supreme, and the siddhi
 ཐོགས་མེད་དབང་དུ་བྱེད་པའི་དངོས་གྲུབ་སྩོལ། །
 T'OG MÉ WANG DU JÉ PA'I NGO DRUB TSOL
 Of magnetizing, without obstruction, whatever we desire!
-ཅེས་པའང་རབ་ཚེས་ས་ཡོས་ཟླ་ ༧ ཚེས་ ༡ ལ་དྷཱི་མིང་པས་སྤེལ། གསོལ་བ་བཏབ་ན་གང་ཟག་སུ་
-ཡང་རུང་སྟེ་དབང་གི་ལས་ཀུན་ཇི་ལྟར་བསམ་པ་བཞིན་འགྲུབ་པར་གདོན་མི་ཟའོ། །དར་དམར་ལ་བྲིས་ཏེ་
+ཅེས་པའང་རབ་ཚེས་ས་ཡོས་ཟླ་ ༧ ཚེས་ ༡ ལ་དྷཱི་མིང་པས་སྤེལ། 
+གསོལ་བ་བཏབ་ན་གང་ཟག་སུ་
+ཡང་རུང་སྟེ་དབང་གི་ལས་ཀུན་ཇི་ལྟར་བསམ་པ་བཞིན་འགྲུབ་པར་གདོན་མི་ཟའོ
+། །དར་དམར་ལ་བྲིས་ཏེ་
 ཕྱར་བའམ་མེ་རླུང་ལ་འཁོར་ལོ་བྱས་ཀྱང་འགྲུབ་བོ། མངྒ་ལཾ།། །།
 This was composed on the first day of the seventh month of the year of the Earth Hare (1879)
 by one named Dhi (Ju Mipham). All who pray in this way will, without any doubt, accomplish
@@ -752,9 +673,8 @@ flown in the air, or used in prayer wheels powered by heat or wind.
 Mangalam!
 22
 
-
-
-༄༅། །ཚིག་བདུན་གསོལ་འདེབས་དང་འབྲེལ་བའི་བླ་མའི་རྣལ་འབྱོར་བྱིན་
+ཚིག་བདུན་གསོལ་འདེབས་དང་འབྲེལ་བའི་བླ་མའི་རྣལ་འབྱོར་བྱིན་
+༄༅། །
 རླབས་ཆར་འབེབས་བཞུགས་སོ།། །
 GURU Yoga CONNECTED WITH THE SEVEN LINE PRAYER
 CALLED THE SHOWER OF BLESSINGS
@@ -778,8 +698,6 @@ And are surrounded by your circle of many dakinis.
 ཁྱེད་ཀྱི་རྗེས་སུ་བདག་བསྒྲུབ་ཀྱིས༔
 KHYÉ KYI JÉ SU DAG PRUB KYI
 By following in your footsteps
-
-
 
 བྱིན་གྱིས་རློབ་ཕྱིར་གཤེགས་སུ་གསོལ༔
 JIN GYI LOB CHIR SHEG SU SOL
@@ -810,35 +728,31 @@ NAG TRÖ DAM PAR BÉ PA'I TUL ZHUG CHEN
 Engaging in excellent secret practice in deep forests —
 24
 
-
-
-འཁོར་འདས་ཆོས་སྐུར་རྫོགས་པའི་ཀློང་ཆེན་པ། ། །
+འཁོར་འདས་ཆོས་སྐུར་རྫོགས་པའི་ཀློང་ཆེན་པ
 KHOR DÉ CHÖ KŮR DZOG PA'I LONG CHEN PA
-དྲི་མེད་འོད་ཟེར་ཞབས་ལ་གསོལ་བ་འདེབས། །
-DRIMÉ Ö ZER ZHAB LA SOL WA DEB
 The great expanse of the perfect dharmakaya of samsara and nirvana:
+དྲི་མེད་འོད་ཟེར་ཞབས་ལ་གསོལ་བ་འདེབས
+DRIMÉ Ö ZER ZHAB LA SOL WA DEB
 Drimé Ozer, to you I pray.
 PRAYER TO THE Root LAMA
-འོག་མིན་ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཕོ་བྲང་ན། །
+འོག་མིན་ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཕོ་བྲང་ན
 OG MIN CHÖ KYI YING KYI PHO DRANG NA
 In the palace of the Akanishtha dharmadhatu,
-དུས་གསུམ་སངས་རྒྱས་ཀུན་གྱི་ངོ་བོ་ཉིད། །
+དུས་གསུམ་སངས་རྒྱས་ཀུན་གྱི་ངོ་བོ་ཉིད
 DÜ SUM SANGYÉ KUN GYI NGO WO NYI
 The essence of all the buddhas of the three times,
-རང་སེམས་ཆོས་སྐུར་མངོན་སུམ་སྟོན་མཛད་པའི། །
+རང་སེམས་ཆོས་སྐུར་མངོན་སུམ་སྟོན་མཛད་པའི
 RANG SEM CHỔ KUR NGON SUM TỔN DZÉ PAI
-He who shows clearly the dharmakaya of my own mind-
-རྩ་བའི་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས། །
+He who shows clearly the dharmakaya of my own mind
+རྩ་བའི་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས
 TSA WA'I LAMA'I ZHAB LA SOL WA DEB
 At the feet of my root guru I pray.
 དཔལ་ལྡན་རྩ་བའི་བླ་མ་རིན་པོ་ཆེ། །
 PAL DEN TSA WA'I LAMA RINPOCHÉ
 Glorious root teacher, precious one,
-བདག་གི་སྤྱི་བོར་པདྨའི་གདན་བཞུགས་ལ། །
+བདག་གི་སྤྱི་བོར་པདྨའི་གདན་བཞུགས་ལ
 DAG GYI CHI WOR PÉMA'I DEN ZHUG LA
 Seated on the lotus seat on the crown of my head,
-
-
 
 བཀའ་དྲིན་ཆེན་པོའི་སྒོ་ནས་རྗེས་བཟུང་སྟེ། །
 KA DRIN CHEN PÖ'I GO NÉ JÉ ZUNG TÉ
@@ -846,12 +760,12 @@ Hold me with your great kindness;
 སྐུ་གསུང་ཐུགས་ཀྱི་དངོས་གྲུབ་བསྩལ་དུ་གསོལ། །
 KU SUNG T'UG KYI NGO DRUB TSAL DU SOL
 Bestow the accomplishments of body, speech and mind.
-Taking REFUGE
 སྐྱབས་འགྲོ་ནི།
+Taking REFUGE
 ན་མོ༔ བླ་མ་བདེ་གཤེགས་འདུས་པའི་སྐུ༔
 NAMO LAMA DÉ SHEG DÜ PA'I KU
-དཀོན་མཆོག་གསུམ་གྱི་རང་བཞིན་ལ༔
 NAMO! In the lama who embodies all sugatas,
+དཀོན་མཆོག་གསུམ་གྱི་རང་བཞིན་ལ༔
 KÖN CHOG SUM GYI RANG ZHIN LA
 Who is the self nature of the three jewels,
 བདག་དང་འགྲོ་དྲུག་སེམས་ཅན་རྣམས༔
@@ -862,23 +776,22 @@ JANG CHUB BAR DU KYAB SU CHI
 Take refuge until attaining enlightenment. [repeat three times!
 26
 
-
-
 སེམས་བསྐྱེད་ནི།
 AROUSING BODHICITTA
 སེམས་བསྐྱེད་འགྲོ་བ་ཀུན་དོན་དུ༔
 SEM KYÉ DRO WA KUN DÖN DU
 Generating bodhicitta for the benefit of all beings,
-Having practiced the lama as the Buddha,
 བླ་མ་སངས་རྒྱས་བསྒྲུབ་ནས་ནི༔
 LAMA SANGYÉ DRUB NÉ NI
+Having practiced the lama as the Buddha,
 གང་ལ་གང་འདུལ་ཕྲིན་ལས་ཀྱིས༔
 GANG LA GANG DUL TRIN LÉ KYI
 By performing activities that tame beings according to their needs,
-འགྲོ་བ་སྒྲོལ་བར་དམ་བཅའ་འོ༔ ལན་གསུམ།
+ལན་གསུམ།
+འགྲོ་བ་སྒྲོལ་བར་དམ་བཅའ་འོ༔ 
 DRO WA DROL WAR DAM CHA O
 I vow to liberate all beings. (repeat three times)
-ཚོགས་བསགས་ཡན་ལག་བཅུ་པ་ནི།
+ཚོགས་བསགས་ཡན་ལག་བཅུ་པ་ནི
 THE TEN BRANCHES OF THE ACCUMULATION OF Merit
 བླ་མ་ཡི་དམ་མཁའ་འགྲོ་གཤེགས༔
 LAMA YI DAM KHA DRO SHEG
@@ -889,8 +802,6 @@ Be seated on thrones of lotus, moon and sun disks.
 ལུས་ངག་ཡིད་གསུམ་གུས་ཕྱག་འཚལ༔
 LÜ NGAG YI SUM GU'I CHAG TSAL
 I prostrate with devotion of body, speech and mind.
-
-
 
 ཕྱི་ནང་གསང་བའི་མཆོད་པ་འབུལ༔
 CHI NANG SANG WAI CHỖ PA BUL
@@ -915,9 +826,7 @@ YANG DAG DOR JÉ'I DÖN TOG SHOG
 To realize the perfect vajra nature.
 ༡8
 
-
-
-རང་ལུས་ཐ་མལ་གནས་པའི་མདུན་མཁའ་རུ། །
+རང་ལུས་ཐ་མལ་གནས་པའི་མདུན་མཁའ་རུ
 AH RANG LU T'A MAL NÉ PA'I DUN KHA RU
 AH! In my ordinary body, appearing before me in the sky,
 ཨོ་རྒྱན་དྲི་མེད་དྷ་ན་ཀོ་ཤའི་མཚོ། །
@@ -926,27 +835,25 @@ In Oddiyana, is a pure lake called Dhanakosha
 གཏིང་ཟབ་ཡན་ལག་བརྒྱད་ལྡན་ཆུས་གང་བའི། །
 TING ZAB YAN LAG GYÉ DEN CHÜ GANG WA'I
 Deep and full of water endowed with the eight qualities.
-དབུས་སུ་རིན་ཆེན་པད་སྡོང་འདབ་རྒྱས་སྟེང་། །
+དབུས་སུ་རིན་ཆེན་པད་སྡོང་འདབ་རྒྱས་སྟེང་
 WU SU RIN CHEN PÉ DONG DAB GYÉ TENG
 In the middle of the lake on jewels and the stalk of a fully bloomed lotus
-སྐྱབས་གནས་ཀུན་འདུས་ཨོ་རྒྱན་རྡོ་རྗེ་འཆང་། །
+སྐྱབས་གནས་ཀུན་འདུས་ཨོ་རྒྱན་རྡོ་རྗེ་འཆང་
 KYAB NÉ KUN DÜ ORGYEN DOR JÉ CHANG
 Sits Orgyen Dorje Chang, subsuming all fields of refuge,
 མཚན་དཔེའི་དཔལ་འབར་མཚོ་རྒྱལ་ཡུམ་དང་འཁྲིལ། །
 TSEN PÉ'I PAL BAR TSHO GYAL YUM DANG TRIL
 viazing in the glory of the major and minor marks, and embracing his consort
 Yeshe Tsogyal.
-ཕྱག་གཡས་རྡོ་རྗེ་གཡོན་པས་ཐོད་བུམ་བསྣམས། །
+ཕྱག་གཡས་རྡོ་རྗེ་གཡོན་པས་ཐོད་བུམ་བསྣམས
 CHAG YÉ DOR JÉ YÖN PÉ T'O BUM NAM
 Holding a vajra in his right hand a skull-cup containing a vase in his left,
-དར་དང་རིན་ཆེན་རུས་པའི་རྒྱན་གྱིས་མཛེས། །
+དར་དང་རིན་ཆེན་རུས་པའི་རྒྱན་གྱིས་མཛེས
 DAR DANG RIN CHEN RÜ PA'I GYEN GYI DZÉ
 He is beautifully adorned with satin clothes and jewel and bone ornaments.
 29
 
-
-
-འོད་ལྔའི་ཀློང་ནས་བདེ་ཆེན་གཟི་བྱིན་འབར། །
+འོད་ལྔའི་ཀློང་ནས་བདེ་ཆེན་གཟི་བྱིན་འབར
 ÖNGÉ'I LONG NÉ DÉ CHEN ZI JIN BAR
 His great bliss flashes in the fundamental space of the five lights.
 འཁོར་དུ་རྩ་གསུམ་རྒྱ་མཚོ་སྤྲིན་ལྟར་གཏིབས། །
@@ -967,15 +874,13 @@ My body, possessions, and all my accumulation of merit of the three times,
 ཀུན་བཟང་མཆོད་པའི་སྤྲིན་དུ་དམིགས་ནས་འབུལ། །
 KUN ZANG CHÖ PA'I TRIN DU MIG NÉ BUL
 I offer visualized as the clouds of Kuntuzangpo's offerings.
-ཐོགས་མེད་ནས་བསགས་སྡིག་ལྟུང་མ་ལུས་བཤགས། །
+ཐོགས་མེད་ནས་བསགས་སྡིག་ལྟུང་མ་ལུས་བཤགས
 TOG MÉ NÉ SAG DIG TUNG MA LÜ SHAG
 I confess all my sins and transgressions created since beginningless time.
 སྲས་བཅས་རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་གྱི། །
 SÉ CHÉ GYAL WA KUN GYI YÖN TEN GYI
 In the qualities of all the conquerors and their heirs,
 30
-
-
 
 ཁྱབ་བདག་གཅིག་པུ་མགོན་པོའི་རྣམ་ཐར་ལ། །
 KHYAB DAG CHIG PU GÖN PÖ'I NAM T'AR LA
@@ -998,15 +903,13 @@ GÖN PO KHYÖ KYI NAM T'AR JÉ NYEG TÉ
 མཁའ་ཁྱབ་འགྲོ་བ་འདྲེན་པའི་དོན་དུ་བསྔོ། །
 KHA KHYAB DRO WA DREN PA'I DÖN DU NGO
 And distribute the merit to free beings as endless as the sky.
-སྐྱབས་གནས་ཀུན་འདུས་མཁྱེན་བརྩེའི་གཏེར་ཆེན་པོ། །
+སྐྱབས་གནས་ཀུན་འདུས་མཁྱེན་བརྩེའི་གཏེར་ཆེན་པོ
 KYAB NÉ KUN DÜ KHYEN TSÉ'I TER CHEN PO
 Oh great treasure of love and wisdom who subsumes all refuge fields.
 དུས་ངན་སྙིགས་མའི་སྐྱབས་མཆོག་རིན་པོ་ཆེ། །
 DÜ NGEN NYIG MA'I KYAB CHOG RINPOCHÉ
 Precious supreme refuge for these dark, evil times,
 31
-
-
 
 ལྔ་བདོའི་རྒུད་པས་མནར་ཤིང་གདུང་ཤུགས་ཀྱིས། །
 NGA DO'T GYÜ PÉ NAR SHING DUNG SHUG KYI
@@ -1036,8 +939,6 @@ PÉMA GÉSAR DONG PO LA
 In the pollen heart of the lotus,
 32
 
-
-
 ཡ་མཚན་མཆོག་གི་དངོས་གྲུབ་བརྙེས༔
 YA TSEN CHOG GI NGO DRUB NYÉ
 Marvelous in the perfection of your attainment,
@@ -1056,7 +957,7 @@ I pray that you will come to confer your blessings.
 གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
 GURU PÉMÅ SIDDHI HUNG
 ཞེས་མོས་གུས་ཀྱིས་གསོལ་བ་བཏབ་པས་བླ་མ་ཡབ་ཡུམ་གྱི་སྦྱོར་མཚམས་དང་ཐུགས་ཀ་ནས་ཡེ་ཤེས་
-ཀྱི་འོད་ཟེར་སྣ་ལྔ་བ་ཐག་ལྟར་བརྒྱངས་ནས་རང་གི་སྙིང་གར་ཐིམ་པས་རྒྱུད་བྱིན་གྱིས་བརླབ་པར་བསམ།
+ཀྱི་འོད་ཟེར་སྣ་ལྔ་བ་ཐག་ལྟར་བརྒྱངས་ནས་རང་གི་སྙིང་གར་ཐིམ་པས་རྒྱུད་བྱིན་གྱིས་བརླབ་པར་བསམ
 By the devotion of your prayer, five-colored light rays extend out like tethers from
 the union and the heart of the male and female gurus, and dissolve into your heart,
 conferring blessings.
@@ -1065,8 +966,6 @@ OM AH HUNG BENZRA GURU PÉMA SIDDHI HUNG
 བཛྲ་གུ་རུ་ཅི་རིགས་བཟླ། །
 Recite the Vajra Guru Mantra as much as you like.
 33
-
-
 
 ཨོ་ ཨ་ ཨཱ། ཨི་ ཨཱི།
 OM AAH III
@@ -1087,10 +986,8 @@ TA THA DA DHA NA
 PA PHA BA BHA MA
 ཡ་ ར་ ལ་ ཝ།
 YA RA LA WA
-ཤ་ ཥ་ ས་ ཧ་ ཀླུ། །
+ཤ་ ཥ་ ས་ ཧ་ ཀླུ ། །
 SHA KHA SA HA CHA
-
-
 
 ཨོ་བཛྲ་ས་ཏྭ་ས་མ་ཡ༔ མ་ནུ་པཱ་ལ་ཡ༔
 OM BEN ZA SATO SA MA YA MA NU PA LA YA
@@ -1118,8 +1015,6 @@ SAR WA TA THA GA TA BEN ZA MA MÉ MUN TSA
 BEN ZRA BHA WA MA HA SA MA YA SA TO AH
 ༢5
 
-
-
 ཨོཾ་ཡེ་དྷརྨཱ་ཧེ་ཏུ་
 OM YÉ DHAR MA HÉ TU
 པྲ་བྷ་ཝཱ་ཧེ་ཏུནྟེ་ཥཱན་
@@ -1132,8 +1027,6 @@ TÉ KHYEN TSA YO NI RO DHA
 E WAM WA DI MA HA SHRA MA NA YÉ SO HA
 36
 
-
-
 ༄༅། །བརྗོད་མེད་དོན་གྱི་བཤགས་པ་ནི། །
 THE INEXPRESSIBLE ABSOLUTE CONFESSION
 ཨོཾ༔ ཡེ་ཤེས་སྐུ་མཆོག་རང་བཞིན་དཀྱིལ་འཁོར་ནི། ། །
@@ -1145,16 +1038,17 @@ Like the full moon, you are devoid of constructs.
 ཐུགས་རྗེ་ཉི་གསལ་འོད་བཞིན་སྙོམས་མཛད་པ། །
 T'UG JÉ NYI SAL Ö ZHIN NYOM DZÉ PA
 Yet your compassion manifests equally for all, like the light of the radiant sun.
-འདིར་གཤེགས་བདག་ལ་དགོངས་ཤིང་བཞུགས་སུ་གསོལ། །
+འདིར་གཤེགས་བདག་ལ་དགོངས་ཤིང་བཞུགས་སུ་གསོལ
 DIR SHEG DAG LA GONG SHING ZHUG SU SOL
 Please come here, pay heed to us, and be seated.
 བརྗོད་མེད་ཤེས་རབ་མི་གཡོ་ཆོས་ཀྱི་སྐུ། །
 JÖ MÉ SHÉ RAB MI YO CHO KYI KU
 Inexpressible knowledge, unshakable dharmakaya,
 བདེ་ཆེན་ལོངས་སྤྱོད་རྫོགས་སྐུ་རིགས་ལྔའི་གཙོ། །
-Great blissful sambhogakaང་རོལ་པའི་ལྷ། །
 DÉ CHEN LONG CHÖ DZOG KU RIG NGA'I TSO
-Great blissful sambhogakaya, lords of the five families,
+Great Great blissful sambhogakaya, lords of the five families,
+blissful 
+sambhogakaང་རོལ་པའི་ལྷ
 ཐུགས་རྗེ་ཐབས་མཁས་རྒྱ་ཆེ་རོལ་པའི་ལྷ། །
 TUG JÉ TAB KHÉ GYA CHÉ ROL PAI LHA
 Vast display of compassion and skillful means,
@@ -1163,49 +1057,46 @@ ZHI TRO TRUL PA'I KU LA CHAG TSAL LO
 Peaceful and wrathful nirmanakayas, we pay homage to you.
 31
 
-
-
-དངོས་སུ་འབྱོར་དང་ཡིད་ཀྱིས་རྣམ་སྤྲུལ་པའི། །
+དངོས་སུ་འབྱོར་དང་ཡིད་ཀྱིས་རྣམ་སྤྲུལ་པའི
 NGÖ SU JOR DANG YI KYI NAŇ TRUL PA'I
 Whatever actual luxuries we have and those emanated by mind,
-ཀུན་ཏུ་བཟང་པོ་བླ་མེད་མཆོད་སྤྲིན་གྱིས། ། །
+ཀུན་ཏུ་བཟང་པོ་བླ་མེད་མཆོད་སྤྲིན་གྱིས
 KUN TU ZANG PO LA MÉ CHO TRIN GYI
 Unsurpassable offering clouds of Samantabhadra,
-མཁའ་དབྱིངས་རྣམ་དག་རྒྱ་ཆེར་ཡོངས་བཀོད་དེ། །
+མཁའ་དབྱིངས་རྣམ་དག་རྒྱ་ཆེར་ཡོངས་བཀོད་དེ
 KHA YING NAM DAG GYA CHER YONG KÖ DÉ
 Vastly and fully displayed in pure space,
-ཕྱི་ནང་གསང་བའི་མཆོད་པ་རྒྱ་མཚོས་མཆོད། །
+ཕྱི་ནང་གསང་བའི་མཆོད་པ་རྒྱ་མཚོས་མཆོད
 CHI NANG SANG WA'I CHÖ PA GYA TSO CHÖ
 We present you with an ocean of outer, inner and secret offerings.
 ཀུན་ཏུ་བཟང་མོ་གསང་བའི་བྷ་ག་ལ། །
 KUN TU ZANG MO SANG WA'I BHA GA LA
 Within the secret bhaga of Samantabhadri,
-རྒྱལ་བའི་དཀྱིལ་འཁོར་རབ་འབྱམས་མ་ལུས་ཀུན། །
+རྒྱལ་བའི་དཀྱིལ་འཁོར་རབ་འབྱམས་མ་ལུས་ཀུན
 GYAL WA'I KYIL KHOR RAB JAM MA LÜ KUN
 All the infinite mandalas of the victorious ones, without exception
-འདུ་འབྲལ་མེད་པའི་ངང་དུ་རོ་གཅིག་པ། །
+འདུ་འབྲལ་མེད་པའི་ངང་དུ་རོ་གཅིག་པ
 DU DRAL ME PAI NGANG DU RO CHIG PA
 Are of one taste beyond meeting and parting.
-གཉིས་མེད་བྱང་ཆུབ་སེམས་ཀྱིས་མཉེས་གྱུར་ཅིག །
-NYI MÉ JANG CHUB SEM KYI NYÉ GYUR CHIG.
+གཉིས་མེད་བྱང་ཆུབ་སེམས་ཀྱིས་མཉེས་གྱུར་ཅིག 
+NYI MÉ JANG CHUB SEM KYI NYÉ GYUR CHIG .
 May you be pleased by this non-dual awakened mind.
-སེམས་ཀྱི་རང་བཞིན་ཆོས་དབྱིངས་ནམ་མཁའ་ཆེ། །
+སེམས་ཀྱི་རང་བཞིན་ཆོས་དབྱིངས་ནམ་མཁའ་ཆེ
 SEM KYI RANG ZHIN CHO YING NAM KHA CHÉ
 The nature of mind is the great space of dharmata.
 38
 
-
-
 ཆོས་རྣམས་རྣམ་དག་ཡེ་ནས་འོད་གསལ་ཞིང་། །
 CHỖ NAM NAM DAG YẾ NÉ Ở SALZHING
 All phenomena are pure and primordially luminous.
-རྣལ་འབྱོར་ཉིད་དབྱིངས་སྨྲ་བསམ་ལས་འདས་པའི། །
+རྣལ་འབྱོར་ཉིད་དབྱིངས་སྨྲ་བསམ་ལས་འདས་པའི
 NAL JOR NYI YING MA SAM LÉ DÉ PA'I
 The space of this practice transcends thought, word and description.
 མཉམ་ཉིད་བྱང་ཆུབ་སེམས་ལ་རྟག་ཏུ་འདུད། །
 NYAM NYI JANG CHUB SEM LA TAG TU DU
 To this awakened mind of equality, we continually pay homage.
-ཨཱ༔ ཀུན་བཟང་རྫོགས་ཆེན་ཡེ་ནས་བརྡལ་བ་ལ། །
+ཀུན་བཟང་རྫོགས་ཆེན་ཡེ་ནས་བརྡལ་བ་ལ། །
+ཨཱ༔ 
 AH KUN ZANG DZOG CHEN YÉ NÉ DAL WA LA
 Ah! The primordially pervasive great perfection of Samantabhadra,
 ཕྱི་ནང་གསང་བ་བཀོད་པའི་དཀྱིལ་འཁོར་ནི། །
@@ -1214,18 +1105,16 @@ Is displayed within the outer, inner and secret mandalas
 སྣང་སྲིད་རྣམ་དག་ལྷ་དང་ལྷ་མོའི་དབྱིངས། །
 NANG SI NAM DAG LHA DANG LHA MÖ'I YING
 Are pure appearance and existence,the realm of male and female deities.
-འབྱུང་དང་འབྱུང་འགྱུར་ཡབ་ཡུམ་ལྷུན་རྫོགས་རྣམས། །
+འབྱུང་དང་འབྱུང་འགྱུར་ཡབ་ཡུམ་ལྷུན་རྫོགས་རྣམས
 JUNG DANG JUNG GYUR YAB YUM LHUN DZOG NAM
 The spontaneously perfected lords and ladies are what has and will occur.
-གསང་ཆེན་རབ་དགྱེས་གཟུགས་ཅན་བདག་ཉིད་མ། །
+གསང་ཆེན་རབ་དགྱེས་གཟུགས་ཅན་བདག་ཉིད་མ
 SANG CHEN RAB GYÉ ZUG CHEN DAG NYI MA
 She, having the essential form, fully enjoys the great secret
-མཁའ་དབྱིངས་ཀློང་ཡངས་པདྨོ་འཁྱིལ་བ་ལས། །
+མཁའ་དབྱིངས་ཀློང་ཡངས་པདྨོ་འཁྱིལ་བ་ལས
 KHA YING LONG YANG PÉMO KHYIL WA LÉ
 Contained within the vast expanse of the lotus,
 39
-
-
 
 གཉིས་མེད་ཐིག་ལེ་ཆེན་པོར་འོད་གསལ་ཞིང་། ། །
 NYI MÉ T'IG LÉ CHEN POR Ö SAL ZHING
@@ -1253,16 +1142,12 @@ RIG NGA PAL CHEN TRO GYAL YAB YUM CHU
 The great glorious one of the five families, ten wrathful kings with their consorts,
 གནས་དང་ཡུལ་གྱི་ཕྱག་རྒྱ་སྒོ་མ་བཞི། །
 NÉ DANG YUL GYI CHAG GYA GO MA ZHI
-Mudra deities of the sacred places and countries, four female gatekeepers—
-=
+Mudra deities of the sacred places and countries, four female gatekeepers— 
 40
 
-
-
 ཡེ་ཤེས་སྤྲུལ་པའི་ལྷ་ཚོགས་མང་པོ་དང༌། །
-YÉ SH
-É TRUL PA'I LHA TSOG MANG PO DANG
-All of you many deities emanated out of wisdom,
+YÉ SH É TRUL PA'I LHA TSOG MANG PO DANG
+All of you many deities emanated out of wisdom ,
 མ་ལྟར་བྱམས་ཤིང་སྲིང་ལྟར་གདུང་ལ་སོགས། །
 MA TAR JAM SHING SING TAR DUNG LA SO
 Loving like mothers and affectionate like sisters,
@@ -1288,8 +1173,6 @@ In order to reach the state of unexcelled enlightenment,
 TEN PA GYA TSO'I SO SO'I DUL TRIM DANG
 The various disciplines of the ocean of teachings,
 41
-
-
 
 སྐུ་གསུང་ཐུགས་དང་མཉམ་སྦྱོར་སྡོམ་པའི་མཆོག །
 KU SUNG T'UG DANG NYAM JOR DOM PA'I CHOG
@@ -1320,12 +1203,10 @@ SHÉ ZHIN MI DEN BAG MÉ WANG GYUR TÉ
 Inattentive and overpowered by carelessness,
 42
 
-
-
 བསྒོམ་ལ་མི་བརྩོན་བསྙེན་སྒྲུབ་གཡེལ་ལ་སོགས། །
 GOM LA MI TSON NYEN DRUB YEL LA SO
 Not exerting ourselves in meditation, and negligent in sadhana practice,
-རྩ་བ་སྐུ་གསུང་ཐུགས་ཀྱི་དམ་ཚིག་ལ། །
+རྩ་བ་སྐུ་གསུང་ཐུགས་ཀྱི་དམ་ཚིག་ལ
 TSA WA KU SUNG T'UG KYI DAM TSIG LA
 Concerning these root samayas of body, speech and mind,
 ཚོར་དང་མ་ཚོར་མ་རིག་དབང་གིས་ན། །
@@ -1350,60 +1231,54 @@ They are difficult to discern and we have violated the secrecy,
 NGON SHÉ MÉ PÉ KYON CHEN MA TOG TÉ
 Lacking in higher perception, we have failed to recognize those who are at fault.
 
-
-
 ཉམས་དང་ཚོགས་འདྲེས་ཉམས་པ་བསྐང་བ་དང༌། །
 NYAM DANG TSOG DRÉ NYAM PA KANG WA DANG
 Celebrating the ganachakra with transgressors and absolving them,
-ཉམས་དང་སྣོད་མིན་རྣམས་ལ་ཆོས་བཤད་དང་། །
+ཉམས་དང་སྣོད་མིན་རྣམས་ལ་ཆོས་བཤད་དང་
 NYAM DANG NÕ MIN NAM LÀ CHỖ SHÉ DANG
 Explaining the Dharma to transgressors and unworthy recipients,
-ཉམས་ལ་མི་འཛེམས་ཉམས་པའི་སྐྱོན་ལ་སོགས། །
+ཉམས་ལ་མི་འཛེམས་ཉམས་པའི་སྐྱོན་ལ་སོགས
 NYAM LA MI DZEM NYAM PA'I KYON LA SO
 Unafraid of violators, the faults of transgressors and the like,
 ཉམས་དང་འགྲོགས་ཤིང་ཉམས་པ་དེ་དག་གིས། །
 NYAM DANG DROG SHING NYAM PA DÉ DAG GI
 We have associated with transgressors, and due to these violations
-ཉམས་གྲིབ་སྐྱོན་གྱིས་གོས་པར་གྱུར་ཏོ་འཚལ། །
+ཉམས་གྲིབ་སྐྱོན་གྱིས་གོས་པར་གྱུར་ཏོ་འཚལ
 NYAM DRIB KYON GYI GÖ PAR GYUR TO TSAL
 Are tainted by the defilement of broken samayas.
 ཚེ་འདིའི་རྐྱེན་དང་ཡུན་གྱིས་སྒྲིབ་གྱུར་རྣམས། ། །
 TSÉ DI'I KYEN DANG YUN GYI DRIB GYUR NAM
 All these causes of misfortune in this life and of ongoing obscuration
-རབ་གནོང་འགྱོད་པའི་སེམས་ཀྱིས་མཐོལ་ལོ་བཤགས། །
+རབ་གནོང་འགྱོད་པའི་སེམས་ཀྱིས་མཐོལ་ལོ་བཤགས
 RAB NONG GYÖ PA'I SEM KYI T'OL LO SHAG
 We openly admit with full of repentance and remorse.
-བྱམས་པའི་ཐུགས་བརྩེས་བདག་ལ་དགོངས་ནས་ཀྱང་། །
+བྱམས་པའི་ཐུགས་བརྩེས་བདག་ལ་དགོངས་ནས་ཀྱང་
 JAM PA'I T'UG TSÉ DAG LA GONG NÉ KYANG
 Please consider us with loving kindness,
-གཉིས་མེད་དབྱིངས་ལས་མི་འགྱུར་བདག་བཀོད་དེ། །
+གཉིས་མེད་དབྱིངས་ལས་མི་འགྱུར་བདག་བཀོད་དེ
 NYI MÉ YING LÉ MI GYUR DAG KÖ DÉ
 And establish us unshakably within the space of non-duality.
 44
 
-
-
 དམིགས་མེད་བཏང་སྙོམས་ངང་དུ་བཞུགས་ནས་ཀྱང་། །
 MIG MÉ TANG NYOM NGANG DU ZHUG NÉ KYANG
 Though you abide in the impartial state beyond concepts,
-གཉིས་མེད་དོན་གྱི་ཚངས་པ་སྩལ་དུ་གསོལ། །
+གཉིས་མེད་དོན་གྱི་ཚངས་པ་སྩལ་དུ་གསོལ
 NYI MÉ DÖN GYI TSANG PA TSAL DU SOL
 Please bestow upon us the non-dual ultimate purity.
-དོན་དམ་དམིགས་མེད་སྤྲོས་ལས་འདས་པ་ལ། །
+དོན་དམ་དམིགས་མེད་སྤྲོས་ལས་འདས་པ་ལ
 DÖN DAM MIG MÉ TRÖ LÉ DÉ PA LA
 Ultimately, in the non-conceptual state beyond concepts,
-རྣམ་རྟོག་གང་ཡང་དམིགས་པར་མི་འགྱུར་ཞིང་། །
+རྣམ་རྟོག་གང་ཡང་དམིགས་པར་མི་འགྱུར་ཞིང་
 NAM TOG GANG YANG MIG PAR MI GYUR ZHING
 No thought whatsoever can be found.
 ཀུན་རྫོབ་སྒྱུ་མ་ཙམ་གྱི་དབང་གིས་ན། །
 KUN DZÕB GYU MA TSAM GYI WANG GI NA
 If, by the power of the relative, which is mere illusion,
-ནོངས་པ་མཆིས་ན་རབ་གནོང་བཟོད་པར་གསོལ། །
+ནོངས་པ་མཆིས་ན་རབ་གནོང་བཟོད་པར་གསོལ
 NONG PA CHI NA RAB NONG ZÖ PAR SOL
 Any mistakes were made, we fully regret them and ask your forgiveness.
 བུ
-
-
 
 ༄༅། །བཅོམ་ལྡན་འདས་དཔལ་རྡོ་རྗེ་སེམས་དཔའ་ལ་ཕྱག་འཚལ་ལོ། །
 CHOM DEN DÉ PAL DOR JÉ SEM PA LA CHAG TSAL LO
@@ -1426,10 +1301,9 @@ A NU RAK TO MÉ BHA WA
 SAR WA KAR MA SU TSA MÉ
 ཙིཏྟཾ་ཤྲཱི་ཡཾ་ཀུ་རུ་ཧཱུྃ༔
 TSITTAM SHRI YAM KU RU HUNG
-ཧ་ཧ་ཧ་ཧ་ཧོ༔ བྷ་ག་ཝཱན༔
+བྷ་ག་ཝཱན༔
+ཧ་ཧ་ཧ་ཧ་ཧོ༔ 
 HA HA HA HA HO BHAGAWAN
-
-
 
 སརྦ་ཏ་ཐཱ་ག་ཏ་བཛྲ་མཱ་མེ་མུཉྩ༔
 SAR WA TA THA GA TA BEN ZA MA MÉ MUN TSA
@@ -1439,7 +1313,8 @@ BEN ZI BHA WA MA HA SA MA YA SA TO AH
 OM BENZRA SA TO HUNG
 བསྐང་བ་བསྡུས་པ་ནི།
 F FULFILLMENT PRAYER
-ཧཱུྃ༔ བཀའ་གསང་རྨད་དུ་བྱུང་བའི་དཀྱིལ་འཁོར་དུ༔
+བཀའ་གསང་རྨད་དུ་བྱུང་བའི་དཀྱིལ་འཁོར་དུ༔
+ཧཱུྃ༔ 
 HUNG KA SANG MÉ DU JUNG WA'I KYIL KHOR DU
 HUNG! In the amazing secret mandala,
 བླ་མ་ཡི་དམ་ལྷ་ཚོགས་ཡོངས་རྫོགས་ལ༔
@@ -1451,8 +1326,6 @@ In the lamp of self-arisen dharmadhatu
 རིག་པའི་ཡེ་ཤེས་མར་མེ་གཏམས་ཏེ་འབུལ༔
 RIG PA'I YÉ SHÉ MAR MÉ TAM TÉ BUL
 I offer the light of the primordial wisdom of awareness.
-
-
 
 རྩ་བརྒྱད་ཡན་ལག་སྟོང་སྦྱར་ཨ་མྲྀ་ཏ༔
 TSA GYÉ YAN LAG TONG JAR AMRITA
@@ -1483,8 +1356,6 @@ A LA LA TÉ GYÉ PAR ZHÉ SU SOL
 A LA LA! Please accept and enjoy this.
 48
 
-
-
 སྨོན་ལམ་ནི།
 Aspiration PRAYERS
 ནམ་མཁའི་མཐར་ཐུག་མཐའ་ཀླས་སེམས་ཅན་རྣམས། །
@@ -1501,8 +1372,6 @@ CHAM CHIG DÖ MA'I SA LA CHIN PAR SHOG
 Come together in the primordial state.
 49
 
-
-
 རྡོ་རྗེའི་ཚིག་བདུན་དང་འབྲེལ་བའི་ཚོགས་མཆོད་དཔལ་གྱི་བུམ་བཟང།
 THE GLORIOUS PERFECT Vase: Tsog OFFERING OF THE VAJRA SEVEN-LINE PRAYER
 ཤ་ཆང་སོགས་ཅི་འབྱོར་བའི་དམ་རྫས་བཤམས་ལ།
@@ -1510,12 +1379,12 @@ Display whatever samaya substances are available, such as meat, liquor and so on
 ཧཱུྃ། ཨཱ༔ལས་ཆོས་དབྱིངས་དང་མཉམ་ཀ་པ་ལར། །
 HUNG AH LÉ CHÖ YING DANG NYAM KA PA LAR
 HUNG! From AH comes a skull cup as large as the space of the dharmadhatu.
-ཨོཾ་ལས་སྣང་སྲིད་འདོད་ཡོན་ཚོགས་སུ་བཤམས། །
+ཨོཾ་ལས་སྣང་སྲིད་འདོད་ཡོན་ཚོགས་སུ་བཤམས
 OM LÉ NANG SI DÖ YÖN TSOG SU SHAM
 From Om the tsog is decorated with the pleasures of all that appears and exists.
 ཧཱུྃ་གིས་བདེ་ཆེན་ཡེ་ཤེས་རོལ་པར་བསྒྱུར། །
 HUNG GI DÉ CHEN YÉ SHÉ ROL PAR GYUR
-By the power of HUNG this becomes great play of bliss and wisdom.
+By the power of HUNG this becomes great play of bliss and wisdom .
 jཡིས་རྩ་གསུམ་ལྷ་ཚོགས་དགྱེས་པ་བསྐང༌། །
 HRI YI TSÁ SUM LHA TSOG GYÉ PA KANG
 By the power of Hri the three roots and the assembly of all the buddhas rejoice.
@@ -1532,98 +1401,90 @@ YA TSEN CHOG GI NGO DRUB NYÉ
 Marvelous in the perfection of your attainment,
 50
 
-
-
-You are known as the Lotus Born,
-And are surrounded by your circle of many dakinis.
-By following in your footsteps
-When you see this offering of sense pleasures,
 པདྨ་འབྱུང་གནས་ཞེས་སུ་གྲགས༔
 PÉMA JUNG NÉ ZHÉ SU DRAG
+You are known as the Lotus Born,
 འཁོར་དུ་མཁའ་འགྲོ་མང་པོས་བསྐོར༔
 KHOR DU KHA DRO MANG PÖ KOR
+And are surrounded by your circle of many dakinis.
 ཁྱེད་ཀྱི་རྗེས་སུ་བདག་བསྒྲུབ་ཀྱིས༔
 KHYÉ KYI JE SU DAG DRUB KYI
+By following in your footsteps
 འདོད་ཡོན་ཚོགས་ལ་སྤྱན་འདྲེན་ན༔
 DÖ YÖN TSOG LA CHEN DREN NA
+When you see this offering of sense pleasures,
 བྱིན་གྱིས་རློབ་ཕྱིར་གཤེགས་སུ་གསོལ༔
 JIN GYI LOB CHIR SHEG SU SOL
+I pray that you will come to confer your blessings.
 གནས་མཆོག་འདི་རུ་བྱིན་ཕོབ་ལ༔
 NÉ CHOG DI RU JIN PHOB LA
+Descend to this supreme place to confer your blessings,
 ཚོགས་མཆོད་ཡེ་ཤེས་བདུད་རྩིར་བསྒྱུར
 TSOG CHÖ YÉ SHÉ DÜ TSIR GYUR
+Transform the offerings into wisdom amrita,
 སྒྲུབ་མཆོག་བདག་ལ་དབང་བཞི་བསྐུར༔
 DRUB CHOG DAG LA WANG ZHI KUR
+Bestow on me the four empowerments of supreme practice,
 བགེགས་དང་ལོག་འདྲེན་བར་ཆད་སོལ༔
 GÉG DANG LOG DREN BAR CHÉ SOL
-I pray that you will come to confer your blessings.
-Descend to this supreme place to confer your blessings,
-Transform the offerings into wisdom amrita,
-Bestow on me the four empowerments of supreme practice,
 Dispel obstructors, bad influences and obstacles
 51
 
-
-
-And confer supreme and mundane accomplishments.
-HUNG! Lord Lama Pema To Treng Tsal,
-With your assembly of dakinis and vidyadharas,
-To you who subsume all the three roots in the mandala of the conquerors,
 མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་སྩོལ༔
 CHOG DANG T'UN MONG NGO DRUB TSOL
+And confer supreme and mundane accomplishments.
 ཧཱུྃ༔ བླ་མ་རྗེ་བཙུན་པདྨ་ཐོད་ཕྲེང་རྩལ། །
 HUNG LAMA JETSUN PEMA T TRUNG TSAL
+HUNG! Lord Lama Pema To Treng Tsal,
 རིག་འཛིན་མཁའ་འགྲོའི་ཚོགས་དང་བཅས་པ་ཡི། །
 RIG DZIN KHA DROI TSOG DANG CHÉ PA YI
-རྩ་གསུམ་ཀུན་འདུས་རྒྱལ་བའི་དཀྱིལ་འཁོར་ལ། །
+With your assembly of dakinis and vidyadharas,
+རྩ་གསུམ་ཀུན་འདུས་རྒྱལ་བའི་དཀྱིལ་འཁོར་ལ
 TSA SUM KUN DÜ GYAL WA'I KYIL KHOR LA
+To you who subsume all the three roots in the mandala of the conquerors,
 མོས་གུས་གདུང་ཤུགས་དྲག་པོས་གསོལ་བ་འདེབས། །
 MÖ GÜ DUNG SHUG DRAG PO SOL WA DEB
+I pray with strong aspiration and devotion.
 བདག་གཞན་སྒོ་གསུམ་དགེ་ཚོགས་ལོངས་སྤྱོད་བཅས། །
 DAG ZHEN GO SUM GÉ TSOG LONG CHO CHÉ
+The merit and wealth accumulated through the three doors of myself and others,
 སྣང་སྲིད་འདོད་ཡོན་དགྱེས་དགུ་མ་ཚང་མེད། །
 NANG SI DÖ YÖN GÉ GU MA TSANG MÉ
+And all the pleasures of appearance and existence
 ཀུན་བཟང་བདེ་ཆེན་ཚོགས་ཀྱི་འཁོར་ལོར་འབུལ། །
 KUN ZANG DÉ CHEN TSOG KYI KHOR LOR BUL
+I offer as the mandala of the great bliss of Kuntuzangpo.
 ཐུགས་བརྩེའི་དགྱེས་བཞེས་ཐུགས་དམ་སྐོང་གྱུར་ཅིག །
 T'UG TSÉ'I GYÉ ZHÉ T'UG DAM KONG GYUR CHIG
-I pray with strong aspiration and devotion.
-The merit and wealth accumulated through the three doors of myself and others,
-And all the pleasures of appearance and existence
-I offer as the mandala of the great bliss of Kuntuzangpo.
 May you receive this with joy and loving kindness, and may you be pacified.
 
-
-
-གསོལ་བ་འདེབས་སོ་གུ་རུ་རིན་པོ་ཆེ། །
+གསོལ་བ་འདེབས་སོ་གུ་རུ་རིན་པོ་ཆེ
 SOL WA DEB SO GURU RINPOCHÉ
 I pray to you, Guru Rinpoche.
-བྱིན་གྱིས་རློབས་ཤིག་རིག་འཛིན་མཁའ་འགྲོའི་ཚོགས། །
+བྱིན་གྱིས་རློབས་ཤིག་རིག་འཛིན་མཁའ་འགྲོའི་ཚོགས
 JIN GYI LOB SHIG RIG DZIN KHA DRO'I TSOG
 Bestow your blessings, gathering of vidyadharas and dakinis,
-མོས་ལྡན་བུ་ལ་མཆོག་ཐུན་དངོས་གྲུབ་སྩོལ། །
+མོས་ལྡན་བུ་ལ་མཆོག་ཐུན་དངོས་གྲུབ་སྩོལ
 MÖ DEN BU LA CHOG T'UN NGO DRUB TSOL
 Confer supreme and common realizations on this devoted child,
-དམ་ཚིག་ཉམས་ཆག་ཐམས་ཅད་སྦྱང་དུ་གསོལ། །
+དམ་ཚིག་ཉམས་ཆག་ཐམས་ཅད་སྦྱང་དུ་གསོལ
 DAM TSIG NYAM CHAG T'AM CHÉ JANG DU SOL
 Purify all violations and lapses of samaya,
-ཕྱི་ནང་གསང་བའི་བར་ཆད་དབྱིངས་སུ་སྒྲོལ། །
+ཕྱི་ནང་གསང་བའི་བར་ཆད་དབྱིངས་སུ་སྒྲོལ
 CHI NANG SANG WA'I BAR CHÉ YING SU DROL
 Liberate into space outer, inner and secret obstacles,
-བྱང་ཆུབ་བར་དུ་འབྲལ་མེད་རྗེས་འཛིན་ཞིང་། །
+བྱང་ཆུབ་བར་དུ་འབྲལ་མེད་རྗེས་འཛིན་ཞིང་
 JANG CHUB BAR DU DRAL MÉ JÉ DZIN ZHING
 Hold me inseparably until I awaken,
-ཚེ་བསོད་ཉམས་རྟོགས་ཡར་ངོའི་ཟླ་ལྟར་འཕེལ། །
+ཚེ་བསོད་ཉམས་རྟོགས་ཡར་ངོའི་ཟླ་ལྟར་འཕེལ
 TSÉ SÖ NYAM TOG YAR NGO'I DA TAR PHEL
 Increase my life, merit, experiences and insight like the waxing moon
-བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས། །
+བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས
 SAM PA LHUN GYI DRUB PAR JIN GYI LOB
 And bless me that my aspirations may be effortlessly fulfilled.
 ཨོཾ་ཨཱ༔ཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུཾ།
 OM AH HUNG BENZRA GURU PÉMA SIDDHI HUNG
 53
-
-
 
 ཚོགས་བསྡུས་ནི།
 Brief Tsog Feast
@@ -1641,18 +1502,17 @@ I humbly confess all violations and lapses of samaya.
 གཉིས་འཛིན་དགྲ་བགེགས་ཆོས་ཀྱི་དབྱིངས་སུ་སྒྲོལ། །
 NYI DZIN DRA GÉG CHÖ KYI YING SU DROL
 Liberate into reality-itself the enemies and obstructors of dualistic grasping.
-མཉམ་ཉིད་བདེ་བ་ཆེན་པོའི་ཐུགས་དམ་བསྐངས། །
+མཉམ་ཉིད་བདེ་བ་ཆེན་པོའི་ཐུགས་དམ་བསྐངས
 NYAM NYI DÉ WA CHEN PÖ'I T'UG DAM KANG
 May the great bliss of equanimity please your heart.
 མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་བསྩལ་དུ་གསོལ། །
 CHOG DANG T'UN MONG NGO DRUB TSAL DU SOL
 I pray that you grant me the supreme and mundane realizations.
 
-
-
 ༄༅། །བསམ་པ་མྱུར་འགྲུབ་ནི།
 The Prayer That SwiftLY ACCOMPLISHES All Wishes
-ཨེ་མ་ཧོ། མཚོ་དབུས་གེ་སར་པདྨའི་སྡོང་པོ་ལ། །
+མཚོ་དབུས་གེ་སར་པདྨའི་སྡོང་པོ་ལ། །
+ཨེ་མ་ཧོ། 
 EMA HO! TSO U GÉ SAR PÉMA'I DONG PO LA
 EMA Ho! In the center of the lake, on the pistil of a lotus,
 སྐུ་ལྔ་ཡེ་ཤེས་ལྷན་གྱིས་གྲུབ་པའི་ལྷ། །
@@ -1661,24 +1521,22 @@ Is the spontaneously accomplished primordial wisdom deity of the five kayas,
 རང་བྱུང་ཆེན་པོ་པདྨ་ཡབ་ཡུམ་ནི། །
 RANG JUNG CHEN PO PÉMA YAB YUM NI
 Great self-born Padmasambhava and consort,
-མཁའ་འགྲོའི་སྤྲིན་ཕུང་འཁྲིགས་ལ་གསོལ་བ་འདེབས། །
+མཁའ་འགྲོའི་སྤྲིན་ཕུང་འཁྲིགས་ལ་གསོལ་བ་འདེབས
 KHA DRO'I TRIN PHUNG TRIG LA SOL WA DEB
 Surrounded by dakinis like masses of cloud banks. To you I pray.
-བསམ་པ་མྱུར་དུ་འགྲུབ་པར་བྱིན་གྱིས་རློབས། །
+བསམ་པ་མྱུར་དུ་འགྲུབ་པར་བྱིན་གྱིས་རློབས
 SAM PA NYUR DU DRUB PAR JIN GYI LOB
 Grant blessings that my wishes may be swiftly accomplished.
-ལས་ངན་སྤྱད་པའི་རྣམ་སྨིན་མཐུས་བསྐྱེད་པའི། །
+ལས་ངན་སྤྱད་པའི་རྣམ་སྨིན་མཐུས་བསྐྱེད་པའི
 LÉ NGEN CHÉ PA'I NAM MIN T'Ü KYÉ PA'I
 Due to the strength of fully-ripening negative karmic behavior,
-ནད་གདོན་བར་གཅོད་དམག་འཁྲུག་མུ་གེ་སོགས། །
+ནད་གདོན་བར་གཅོད་དམག་འཁྲུག་མུ་གེ་སོགས
 NÉ DÖN BAR CHỖ MAG TRUG MU GÉ SO
 All illness, negative forces, obstacles, war, strife and famine develop.
 ཁྱོད་ཞལ་དྲན་པའི་མོད་ལ་ཟད་བྱེད་པའི། །
 KHYÖ ZHAL DREN PA'I MÖ LA ZÉ JÉ PA'I
 By fervently remembering your face, they are exhausted.
 55
-
-
 
 ཞལ་བཞེས་སྙིང་ནས་བསྐུལ་ལོ་ཨོ་རྒྱན་རྗེ། །
 ZHAL ZHÉ NYING NÉ KUL LO ORGYEN JÉ
@@ -1690,12 +1548,12 @@ Bless me that all my wishes may be swiftly accomplished.
 DÉ DANG TSUL TRIM TONG LA GOM PA DANG
 Practicing faith, morality and generosity;
 ཐོས་པས་རྒྱུད་གྲོལ་ཁྲེལ་ཡོད་ངོ་ཚ་ཤེས། །
-TÖ PÉ GYÜ DROL TREL YÖ NGO TSA SHÉ
+T Ö PÉ GYÜ DROL TREL YÖ NGO TSA SHÉ
 Liberating the mind with study, mastering modesty and self-respect,
 ཤེས་རབ་ཕུན་སུམ་ཚོགས་པའི་ནོར་བདུན་པོ། །
 SHÉ RAB PHUN SUM TSOG PA'I NOR DUN PO
-And being fully endowed with wisdom—these are the seven kinds of wealth.
-སེམས་ཅན་ཀུན་གྱི་རྒྱུད་ལ་རང་ཞུགས་ནས། །
+And being fully endowed with wisdom — these are the seven kinds of wealth.
+སེམས་ཅན་ཀུན་གྱི་རྒྱུད་ལ་རང་ཞུགས་ནས
 SEM CHEN KUN GYI GYÜ LA RANG ZHUG NÉ
 By these qualities naturally entering the minds of all sentient beings,
 འཇིག་རྟེན་བདེ་སྐྱིད་ལྡན་པར་དབུགས་འབྱིན་མཛོད། །
@@ -1709,12 +1567,10 @@ GANG LA NÉ DANG DUG NGAL MI DÖ KYEN
 All illness and suffering of undesirable circumstances,
 56
 
-
-
 འབྱུང་པོའི་གདོན་དང་རྒྱལ་པོའི་ཆད་པ་དང་། །
 JUNG PÖ'I DÖN DANG GYAL PÖ'I CHÉ PA DANG
 Demonic forces and royal punishments,
-མེ་ཆུ་གཅན་གཟན་ལམ་འཕྲང་འཇིགས་པ་ཆེ། །
+མེ་ཆུ་གཅན་གཟན་ལམ་འཕྲང་འཇིགས་པ་ཆེ
 MÉ CHU CHEN ZEN LAM TRANG JIG PA CHÉ
 Fire, water, wild animals, treacherous passageways and great fear, .
 ཚེ་ཡི་ཕ་མཐར་གཏུགས་པའི་གནས་སྐབས་ཀུན། །
@@ -1723,10 +1579,10 @@ When the end of this life is reached and during all temporary situations
 སྐྱབས་དང་རེ་ས་གཞན་དུ་མ་མཆིས་པས། །
 KYAB DANG RÉ SA ZHEN DU MA CHI PÉ
 There is no other source of refuge or hope than you.
-ཐུགས་རྗེས་ཟུངས་ཤིག་གུ་རུ་ཨོ་རྒྱན་རྗེ། །
+ཐུགས་རྗེས་ཟུངས་ཤིག་གུ་རུ་ཨོ་རྒྱན་རྗེ
 T'UG JÉ ZUNG ZHIG GURU ORGYEN JÉ
 Hold me fast with your compassion, Lord Orgyen!
-བསམ་པ་མྱུར་དུ་འགྲུབ་པར་བྱིན་གྱིས་རློབས། །
+བསམ་པ་མྱུར་དུ་འགྲུབ་པར་བྱིན་གྱིས་རློབས
 SAM PA NYUR DU DRUB PAR JIN GI LOB
 Grant your blessings so that these wishes may be swiftly accomplished!
 དུས་གསུམ་སངས་རྒྱས་གུ་རུ་རིན་པོ་ཆེ༔
@@ -1740,8 +1596,6 @@ BAR CHÉ KUN SEL DU DUL DRAG PO TSAL
 Du Dul Dragpo, destroyer of all obstacles,
 57
 
-
-
 གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ༔
 SOL WA DEB SO JIN GYI LAB TU SOL
 I pray to you. Please bless me
@@ -1750,11 +1604,11 @@ CHI NANG SANG WA'I BAR CHÉ ZHI WA DANG
 And pacify the inner, outer and secret obstacles.
 བསམ་པ་ལྷན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔
 SAM PA LHUN GYI DRUB PAR JIN GYI LOB
+Bless me that all my aspirations be spontaneously fulfilled.
 ཨོ་རྒྱན་རིན་པོ་ཆེ་ལ་གསོལ་བ་འདེབས། །
 ORGYEN RINPOCHÉ LA SOL WA DEB
 I pray to you, Orgyen Rinpoche.
 འགལ་རྐྱེན་བར་ཆད་མི་འབྱུང་ཞིང་། །
-Bless me that all my aspirations be spontaneously fulfilled.
 GAL KYEN BAR CHÉ MI JUNG ZHING
 Without allowing conflicting circumstances and obstacles to arise.
 མཐུན་རྐྱེན་བསམ་པ་འགྲུབ་པ་དང༌། །
@@ -1764,8 +1618,6 @@ Accomplish all conducive circumstances and wishes, and
 CHOG DANG T'UN MONG NGO DRUB TSOL
 Bestow the supreme and ordinary accomplishments.
 58
-
-
 
 EXTENSIVE PRAYER FOR THE SWIFT REBIRTH OF His HOLINESS
 DRUBWANG PEMA NORBU RINPOCHE
@@ -1781,7 +1633,7 @@ Union which is the glorious seven aspects of joining
 རྒྱ་ཆད་ཕྱོགས་ལྷུང་བྲལ་ལ་ཕྱག་འཚལ་ལོ། །
 GYA CHÉ CHOG LHUNG DRAL LA CHAG TSAL LO
 Without limitations or falling to extremes, we pay homage.
-གནས་སྣང་དག་མཉམ་དབྱིངས་ལས་མ་གཡོས་བཞིན། །
+གནས་སྣང་དག་མཉམ་དབྱིངས་ལས་མ་གཡོས་བཞིན
 NÉ NANG DAG NYAM YING LÉ MA YÖ ZHIN
 Not wavering from the space of the equality and purity of abiding and appearing,
 གནས་སྣང་མཉམ་པ་སྤངས་པའི་གདུལ་བྱའི་ངོར། །
@@ -1789,12 +1641,10 @@ NÉ NANG NYAM PA PANG PA'I DUL JÉ'I NGOR
 Those to be tamed who lack realization of the equality of abiding and appearing,
 གང་འདུལ་གཟུགས་སྐུའི་བཀོད་པས་དོན་མཛད་པ། །
 GANG DUL ZUG KU'I KÖ PÉ DÖN DZÉ PA
-Are benefited by your manifesting nirmanakaya forms suitable to tame them.
+Are benefited by your manifesting nirmanakaya forms suitable to tame them .
 པད་ནོར་བུའི་ཞབས་ལ་གསོལ་བ་འདེབས། །
 PÉMA NORBU'I ZHAB LA SOL WA DEB
 Pema Norbu, at your feet we pray.
-
-
 
 གང་གི་རང་བཞིན་རྟག་ཆད་འགྲོ་འོང་ལས། །
 GANG GI RANG ZHIN TAG CHÉ DRO WONG LÉ
@@ -1811,7 +1661,7 @@ With the five marvelous enlightened aspects.
 མ་རྟོགས་ལོག་པར་རྟོག་པའི་འཛིན་ཞེན་གྱིས། །
 MA TOG LOG PAR TOG PA'I DZIN ZHEN GYI
 Not realizing this and holding the wrong views of grasping and attachment,
-འཇིག་རྟེན་ཕལ་པའི་ཁྱེའུའི་སྨེ་ངག་ལྟར། །
+འཇིག་རྟེན་ཕལ་པའི་ཁྱེའུའི་སྨེ་ངག་ལྟར
 JIG TEN PAL PA'I KHYÉ'U'I MÉ NGAG TAR
 Unlike an ordinary, worldly child who cries
 ཕ་མར་སྡུག་ཡུས་འདྲེན་པ་བཞིན་མིན་པར། །
@@ -1824,8 +1674,6 @@ We entreat you to look upon us with your wisdom from the primordial expanse!
 MI NGON DUL DRAL CHỖ KUI YING CHIG LÉ
 From the nonmanifest, stainless sole expanse of the Dharmakaya,
 60
-
-
 
 མངོན་གྱུར་འཇིག་རྟེན་བྱེ་བ་ཕྲག་བརྒྱའི་ཞིང་། །
 NGON GYUR JIG TEN JÉ WA TRAG GIAIZHING
@@ -1856,8 +1704,6 @@ MI LO DRANG JA GYA TRAG RÉ RÉ'I TSAM
 Vowed and aspired to
 61_
 
-
-
 བོད་དུ་འབྱོན་པར་ཐུགས་བསྐྱེད་དམ་བཅས་བཞིན། །
 BOD DU JON PAR TUG KYÉ DAM CHÉ ZHIN
 Incarnate in Tibet once every hundred human years;
@@ -1886,8 +1732,6 @@ And by the power of the undeceiving interdependence of the two truths,
 DAG CHAG KHYÉ KYI JE SU JUG PA KUN
 May all of us, your followers,
 
-
-
 ཁྱེད་བཞིན་གྱུར་ནས་འཁོར་བ་དོང་སྤྲུགས་ཤོག །
 KHYÉ ZHIN GYUR NÉ KHOR WA DONG TRUG SHOG
 Become like you and empty samsara from its depths.
@@ -1900,8 +1744,6 @@ intent to benefit other beings to be tamed, you have shown the act of departing.
 Thus, with unshakable faith in you, I, Thinley Norbu, have swiftly written this
 supplication.
 
-
-
 CONCISE PRAYER FOR THE SWIFT REBIRTH OF His HOLINESS
 DRUBWANG PEMA NORBU RINPOCHE
 ལྔ་བརྒྱའི་གཙུག་རྒྱན་པཎ་ཆེན་བི་མ་ལ། །
@@ -1912,7 +1754,7 @@ LAR YANG SID PA ZUNG WA'I TSUL TEN CHING
 The great scholar Vimalamitra, who has once again taken birth,
 སྙིང་པོའི་བསྟན་པ་སྤེལ་ལ་ཟླ་བྲལ་བ། །
 NYING PÖ'I TEN PA PEL LA DA DRAL WA
-Unrivalled in spreading the heart essence of the teachings-
+Unrivalled in spreading the heart essence of the teachings
 པད་ནོར་བུའི་ཞབས་ལ་གསོལ་བ་འདེབས། །
 PÉMA NORBU'I ZHAB LA SOL WA DEB
 I pray to Drubwang Pema Norbu.
@@ -1931,34 +1773,33 @@ March, 2009, over the phone as a prayer for the swift rebirth of His Holiness Pe
 Norbu Rinpoche.
 64
 
-
-
+༧གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་ཞབས་བརྟན་གསོལ་འདེབས
+༄༅། །
+LONG LIFE PRAYER 
 E
+ FOR His HoLINESS 
 ht
-In the heavenly realm of Tibet, surrounded by a chain of snow mountains,
-༄༅། །༧གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག་གི་ཞབས་བརྟན་གསོལ་འདེབས།
-LONG LIFE PRAYER FOR His HoLINESS THE 14 DALAI LAMA
+ THE 14 DALAI LAMA
 གངས་རིའི་ར་བས་བསྐོར་བའི་ཞིང་ཁམས་སུ། །
 GANG RI'I RA WÉ KOR WA'I ZHING KHAM SU
+In the heavenly realm of Tibet, surrounded by a chain of snow mountains,
 ཕན་དང་བདེ་བ་མ་ལུས་འབྱུང་བའི་གནས། །
 PHEN DANG DÉ WA MA LŨ JUNG WAI NÉ
 The source of all happiness and help for beings
 སྤྱན་རས་གཟིགས་དབང་བསྟན་འཛིན་རྒྱ་མཚོ་ཡི། །
 CHEN RÉ ZIG WANG TEN ZIN GYA TSO YI
-Is Tenzin Gyatso—Chenrezig in person-
+Is Tenzin Gyatso— Chenrezig in person
 ཞབས་པད་སྲིད་མཐའི་བར་དུ་བརྟན་གྱུར་ཅིག །
 ZHAB PÉ SI T'A'I BAR DU TEN GYUR CIG
 May his life be secure till the end of samsara!
 
-
-
 དཔལ་ལྡན་བླ་མའི་སྐུ་ཚེ་བརྟན་པ་དང་། །
 PAL DEN LAMA'I KU TSÉ TEN PA DANG
-May the life of the glorious masters be firm!
-མཁའ་མཉམ་ཡོངས་ལ་བདེ་སྐྱིད་འབྱུང་བ་དང་། །
+May the life of the glorious masters be firm !
+མཁའ་མཉམ་ཡོངས་ལ་བདེ་སྐྱིད་འབྱུང་བ་དང་
 KHA NYAM YONG LA DÉ KYI JUNG WA DANG
 May happiness and joy arise throughout the expanse of space!
-བདག་གཞན་མ་ལུས་ཚོགས་བསགས་སྒྲིབ་སྦྱངས་ནས། །
+བདག་གཞན་མ་ལུས་ཚོགས་བསགས་སྒྲིབ་སྦྱངས་ནས
 DAG ZHEN MA LU TSOG SAG DRIB JANG NÉ
 By accumulating merit and cleansing obscurations,
 མྱུར་དུ་སངས་རྒྱས་ས་ལ་འགོད་པར་ཤོག །
@@ -1966,9 +1807,8 @@ NYUR DU SANGYÉ SA LA GO PAR SHOG
 May all of us without exception be quickly established in the awakened state!
 66
 
-
-
-ཨོཾ་ཨཱཿཧཱུྃ། ལྷག་ལ་དབང་བ་དྲེགས་པའི་ཚོགས༔
+ལྷག་ལ་དབང་བ་དྲེགས་པའི་ཚོགས༔
+ཨོཾ་ཨཱཿཧཱུྃ། 
 OM AH HUNG LHAG LA WANG WA DREG PA'I TSOG
 Om AH HUNG! Arrogant host who eat the excess offerings,
 སྤྲིན་ལྟར་བཏིབས་ཤིང་ཧབ་ཤ་རྒྱུག༔
@@ -1997,12 +1837,10 @@ U TSITTRA BA LING TA KHA HI
 Saying this, carefully place the remainder offerings outside in a northeastern direction.
 67
 
-
-
 ཧོ༔ རིག་འཛིན་བླ་མའི་དཀྱིལ་འཁོར་དུ། །
 HO RIG DZIN LAMA'I KYIL KHOR DU
 Ho! At the mandala of the vidyadhara lama,
-ཚོགས་ཀྱི་མཆོད་པ་འབུལ་བ་ཡིས། །
+ཚོགས་ཀྱི་མཆོད་པ་འབུལ་བ་ཡིས
 TSOG KYI CHO PA BUL WA YI
 By making the tsok offering,
 བདག་གཞན་འགྲོ་བ་མ་ལུས་པ། །
@@ -2027,8 +1865,6 @@ DRIB JANG KU SUNG T'UG KYI DOR JER GYUR
 Of your three doors and transforming them into vajra body, speech and mind.
 68
 
-
-
 མཐར་ནི་བླ་མ་འཁོར་བཅས་འོད་དུ་ཞུ༔
 T'AR NI LAMA KHOR CHÉ Ö DU ZHU
 Afterward, the Lama and retinue dissolve into light
@@ -2044,9 +1880,11 @@ And yours become one, inseparable in the Dharmakaya.
 ཨ་ཨ༔
 A AH
 ཞེས་བརྗོད་ལ་ཡེ་ནས་བཅོས་བསྒྱུར་སྤང་བླང་ལས་འདས་པ་རང་གི་སེམས་ཉིད་གདོད་མའི་ཆོས་སྐུ་ཆེན་
-པོའི་རང་ཞལ་བལྟ། སླར་ཡང་སྒྱུ་མ་ལྟ་བུའི་སྣང་བ་ཐམས་ཅད་བླ་མའི་རང་བཞིན་དུ་བལྟས་ལ་དགེ་བ་བསྡོ་
+སླར་ཡང་སྒྱུ་མ་ལྟ་བུའི་སྣང་བ་ཐམས་ཅད་བླ་མའི་རང་བཞིན་དུ་བལྟས་ལ་དགེ་བ་བསྡོ་
+པོའི་རང་ཞལ་བལྟ། 
 ཞིང་ཤིས་པ་བརྗོད་པས་བདེ་ལེགས་སུ་བྱའོ། །ཞེས་པའང་ཐམས་ཅད་འདུལ་ཅེས་པའི་གྲོ་བཞིན་ཟླ་བའི་
-ཡར་ཚེས་བརྒྱད་ལ། ཚེ་རབས་ཐམས་ཅད་དུ་གུ་རུ་པདྨའི་བྲན་དུ་སྨོན་ལམ་འདེབས་པ་མི་ཕམ་རྣམ་པར་
+ཚེ་རབས་ཐམས་ཅད་དུ་གུ་རུ་པདྨའི་བྲན་དུ་སྨོན་ལམ་འདེབས་པ་མི་ཕམ་རྣམ་པར་
+ཡར་ཚེས་བརྒྱད་ལ། 
 རྒྱལ་བའི་ཡིད་ཀྱི་མཚོ་ལས་བྱུང་བ་དགེའོ། །སརྦ་མངྒ་ལཾ།།
 Pronounce A AH and look into the true nature of your own mind, the original great
 Dharmakaya, primordially beyond creation and beyond accepting and rejecting. Then, see all
@@ -2055,10 +1893,8 @@ prosperity.
 On the eighth day of the waxing moon of the Droshin month called, "Training All Beings," I,
 Mipham Namgyal, wrote this from the lake of my mind with a prayer to follow Guru Padma all
 my lifetimes. May it be virtuous!
-Sarwa Mangalam!
+Sarwa Mangalam !
 69
-
-
 
 ༄༅། །བསྔོ་སྨོན་ནི།
 DEDICATION
@@ -2088,8 +1924,6 @@ GÉ WA DI DAG T'AM CHÉ RAB TU NGO
 I utterly dedicate all this supreme virtue.
 70
 
-
-
 ཨོཾ་ཡེ་དྷརྨ་ཧེ་ཏུ་
 OM YÉ DHARMA HÉ TU
 པྲ་བྷ་ཝཱ་ཧེ་ཏུནྟེ་ཥཱན་
@@ -2115,8 +1949,6 @@ TEN PA YUN RING NÉ PA'I TRA SHI SHOG
 May there be the auspiciousness of the teaching remaining for a long time.
 11
 
-
-
 ༈ བཟང་སྤྱོད་སྨོན་ལམ་ནི། །
 ASPIRATION PRAYER FOR EXCELLENT CONDUCT
 འདས་པའི་སངས་རྒྱས་རྣམས་དང་ཕྱོགས་བཅུ་ཡི། །
@@ -2125,7 +1957,7 @@ I make offerings to all the past buddhas
 འཇིག་རྟེན་དག་ན་གང་བཞུགས་མཆོད་པར་གྱུར། །
 JIG TEN DAG NA GANG ZHUG CHÖ PAR GYUR
 And those residing in the worlds of the ten directions.
-གང་ཡང་མ་བྱོན་དེ་དག་རབ་མྱུར་བར། །
+གང་ཡང་མ་བྱོན་དེ་དག་རབ་མྱུར་བར
 GANG YANG MA JON DÉ DAG RAB NYUR WAR
 May those who have not appeared
 བསམ་རྫོགས་བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་སྤྱོན། །
@@ -2134,18 +1966,16 @@ Swiftly complete their intentions, and in stages awaken as buddhas.
 ཕྱོགས་བཅུ་ག་ལའི་ཞིང་རྣམས་ཇི་སྙེད་པ། །
 CHOG CHU GA LA'I ZHING NAM JI NYÉ PA
 May the realms of the ten directions, however many;
-དེ་དག་རྒྱ་ཆེར་ཡོངས་སུ་དག་པར་གྱུར། །
+དེ་དག་རྒྱ་ཆེར་ཡོངས་སུ་དག་པར་གྱུར
 DÉ DAG GYA CHER YONG SU DAG PAR GYUR
 Be completely pure and vast;
-བྱང་ཆུབ་ཤིང་དབང་དྲུང་གཤེགས་རྒྱལ་བ་དང་། །
+བྱང་ཆུབ་ཤིང་དབང་དྲུང་གཤེགས་རྒྱལ་བ་དང་
 JANG CHUB SHING WANG DRUNG SHEG GYAL WA DANG
 May they be filled with buddhas and bodhisattvas
 སངས་རྒྱས་སྲས་ཀྱིས་རབ་ཏུ་གང་བར་ཤོག །
 SANGYÉ SÉ KYI RAB TU GANG WAR SHOG
 Who have gone to sit before the powerful bodhi tree.
 72
-
-
 
 ཕྱོགས་བཅུའི་སེམས་ཅན་གང་རྣམས་ཇི་སྙེད་པ། །
 CHOG CHU'I SEM CHEN GANG NAM JI NYÉ PA
@@ -2176,38 +2006,34 @@ GYAL WA KUN GYI JÉ SU LOB GYUR TÉ
 Following the victorious ones, may I train,
 73
 
-
-
-And engage in pure, stainless moral conduct,
-Which never lapses and is free from faults.
-In the languages of gods, the languages of nagas and yakshas,
 བཟང་པོ་སྤྱོད་པ་ཡོངས་སུ་རྫོགས་བྱེད་ཅིང་། །
 ZANG PO CHÖ PA YONG SU DZOG JÉ CHING
 Bringing excellent conduct to perfection,
 ཚུལ་ཁྲིམས་སྤྱོད་པ་དྲི་མེད་ཡོངས་དག་པ། །
 TSHUL TRIM CHÖ PA DRI MÉ YONG DAG PA
+And engage in pure, stainless moral conduct,
 རྟག་ཏུ་མ་ཉམས་སྐྱོན་མེད་སྤྱོད་པར་ཤོག །
 TAG TU MA NYAM KYON MÉ CHÖ PAR SHOG
+Which never lapses and is free from faults.
 ལྷ་ཡི་སྐད་དང་ཀླུ་དང་གནོད་སྦྱིན་སྐད། །
 LHA YI KÉ DANG LU DANG NỖ JIN KÉ
+In the languages of gods, the languages of nagas and yakshas,
 གྲུལ་བུམ་དག་དང་མི་ཡི་སྐད་རྣམས་དང༌། །
 DRUL BUM DAG DANG MI YI KÉ NAM DANG
+In the languages of kumbhandas and humans
 འགྲོ་བ་ཀུན་གྱི་སྒྲ་རྣམས་ཇི་ཙམ་པར། །
 DRO WA KUN GYI DRA NAM ȘI TSAM PAR
+In however many languages of beings there may be,
 ཐམས་ཅད་སྐད་དུ་བདག་གིས་ཆོས་བསྟན་ཏོ། །
 T'AM CHÉ KÉ DU DAG GYI CHÖ TEN TO
+May I teach the Dharma.
 དེས་ཤིང་ཕ་རོལ་ཕྱིན་ལ་རབ་བརྩོན་ཏེ། །
 DÉ SHING PHA ROL CHIN LA RAB TSON TÉ
+Furthermore, may I exert myself in the paramitas.
 བྱང་ཆུབ་སེམས་ནི་ནམ་ཡང་བརྗེད་མ་གྱུར། །
 JANG CHUB SEM NI NAM YANG JÉ MA GYUR
-In the languages of kumbhandas and humans-
-In however many languages of beings there may be,
-May I teach the Dharma.
-Furthermore, may I exert myself in the paramitas.
 May I never forget bodhicitta.
 74
-
-
 
 སྡིག་པ་གང་རྣམས་སྒྲིབ་པར་གྱུར་པ་དག །
 DIG PA GANG NAM DRIB PAR GYUR PA DAG
@@ -2238,18 +2064,16 @@ DÉ WA DAG LA DRO WA KUN GÖ CHING
 May all beings be placed in happiness;
 75
 
-
-
-May all beings be benefited.
 འགྲོ་བ་ཐམས་ཅད་ལ་ནི་ཕན་པར་སྤྱད། །
 DRO WA T'AM CHÉ LA NI PHEN PAR CHÉ
+May all beings be benefited.
 བྱང་ཆུབ་སྤྱོད་པ་ཡོངས་སུ་རྫོགས་བྱེད་ཅིང་། །
 JANG CHUB CHO PA YONG SU DZOG JÉ CHING
-སེམས་ཅན་དག་གི་སྤྱོད་དང་མཐུན་པར་འཇུག །
 May I bring awakened conduct to perfection,
+སེམས་ཅན་དག་གི་སྤྱོད་དང་མཐུན་པར་འཇུག 
 SEM CHEN DAG GI CHỖ DANG T'UN PAR JUG
 Engage in conduct that harmonizes with beings,
-ཟང་པོ་སྤྱོད་པ་དག་ནི་རབ་སྟོན་ཅིང་། །
+ཟང་པོ་སྤྱོད་པ་དག་ནི་རབ་སྟོན་ཅིང་
 ZANG PO CHO PA DAG NI RAB TÖN CHING
 Teach excellent conduct,
 མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་སྤྱོད་པར་གྱུར། །
@@ -2269,9 +2093,7 @@ CHÖ PA DAG DANG MON LAM CHIG TU CHÉ
 Of body, speech, and mind be the same.
 76
 
-
-
-བདག་ལ་ཕན་པར་འདོད་པའི་གྲོགས་པོ་དག །
+།བདག་ལ་ཕན་པར་འདོད་པའི་གྲོགས་པོ་དག 
 DAG LA PHEN PAR DÖ PA'I DROG PO DAG
 Friends who wish to benefit me and
 བཟང་པོ་སྤྱོད་པ་རབ་ཏུ་སྟོན་པ་རྣམས། །
@@ -2279,14 +2101,14 @@ ZANG PO CHÖ PA RAB TU TÖN PA NAM
 Those who teach excellent conduct —
 དེ་དག་དང་ཡང་རྟག་ཏུ་ཕྲད་པར་ཤོག །
 DÉ DAG DANG YANG TAG TU TRÉ PAR SHOG
-May I always meet with them, and
+May I always meet with them , and
 དེ་དག་བདག་གིས་ནམ་ཡང་ཡིད་མི་དབྱུང་། །
 DÉ DAG DAG GI NAM YANG YI MI YUNG
-never displease them.
-སངས་རྒྱས་སྲས་ཀྱིས་བསྐོར་བའི་མགོན་པོ་རྣམས། །
+never displease them .
+སངས་རྒྱས་སྲས་ཀྱིས་བསྐོར་བའི་མགོན་པོ་རྣམས
 SANGYÉ SÉ KYI KOR WA'I GÖN PO NAM
 The protectors, surrounded by bodhisattvas —
-མངོན་སུམ་རྟག་ཏུ་བདག་གིས་རྒྱལ་བ་བལྟ། །
+། །མངོན་སུམ་རྟག་ཏུ་བདག་གིས་རྒྱལ་བ་བལྟ
 NGÔN SUM TAG TU DAG GI GYAL WA TA
 May I always actually see the victorious ones.
 མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་མི་སྐྱོ་བར། །
@@ -2295,12 +2117,10 @@ In future kalpas, without tiring,
 དེ་དག་ལ་ཡང་མཆོད་པ་རྒྱ་ཆེར་བགྱི། །
 DÉ DAG LA YANG CHÖ PA GYA CHER GYI
 May I make vast offerings to them.
-རྒྱལ་བ་རྣམས་ཀྱི་དམ་པའི་ཆོས་འཛིན་ཅིང་། །
+རྒྱལ་བ་རྣམས་ཀྱི་དམ་པའི་ཆོས་འཛིན་ཅིང་
 GYAL WA NAM KYI DAM PA'I CHÖ DZIN CHING
 May I retain the genuine Dharma of the victorious ones,
 77
-
-
 
 བྱང་ཆུབ་སྤྱོད་པ་ཀུན་ཏུ་སྣང་བར་བྱེད། །
 JANG CHUB CHÖ PA KUN TU NANG WAR JÉ
@@ -2317,7 +2137,7 @@ When circling in all my existences
 བསོད་ནམས་ཡེ་ཤེས་དག་ནི་མི་ཟད་བརྙེས། །
 SO NAM YÉ SHÉ DAG NI MI ZÉ NYÉ
 May I develop inexhaustible merit and wisdom,
-ཐབས་དང་ཤེས་རབ་ཏིང་འཛིན་རྣམ་ཐར་དང་། །
+ཐབས་དང་ཤེས་རབ་ཏིང་འཛིན་རྣམ་ཐར་དང་
 TAB DANG SHE RAB TING DZIN NAM TAR DANG
 And become an inexhaustible treasury of
 ཡོན་ཏན་ཀུན་གྱི་མི་ཟད་མཛོད་དུ་གྱུར། །
@@ -2326,12 +2146,10 @@ Methods, knowledge, samadhi, liberation, and virtues.
 རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་ཞིང་རྣམས་ཏེ། །
 DUL CHIG TENG NA DUL NYÉ ZHING NAM TÉ
 In a single atom are realms as numerous as all atoms;
-ཞིང་དེར་བསམ་གྱིས་མི་ཁྱབ་སངས་རྒྱས་རྣམས། །
+ཞིང་དེར་བསམ་གྱིས་མི་ཁྱབ་སངས་རྒྱས་རྣམས
 ZHING DER SAM GYI MI KHYAB SANGYÉ NAM
 In those realms reside infinite buddhas
 18
-
-
 
 སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་ལ། །
 SANGYÉ SÉ KYI WU NA ZHUG PA LA
@@ -2362,24 +2180,22 @@ DRO WA KUN GYI SAM PA JI ZHIN YANG
 And is the melodic speech that accords with the inclinations of all beings;
 79
 
-
-
 སངས་རྒྱས་གསུང་ལ་རྟག་ཏུ་འཇུག་པར་བགྱི། །
 SANGYÉ SUNG LA TAG TU 'JUG PAR GYI
 May I always be engaged with the buddhas' speech.
 དུས་གསུམ་གཤེགས་པའི་རྒྱལ་བ་ཐམས་ཅད་དག །
 DU SUM SHEG PA'I GYAL WA T'AM CHÉ DAG
 All the virctorious ones of the three times
-འཁོར་ལོའི་ཚུལ་རྣམས་རབ་ཏུ་བསྐོར་བ་ཡི། །
+འཁོར་ལོའི་ཚུལ་རྣམས་རབ་ཏུ་བསྐོར་བ་ཡི
 KHOR LO'I TSUL NAM RAB TU KOR WA YI
 Who fully turn all aspects of the wheel
 དེ་དག་གི་ཡང་གསུང་དབྱངས་མི་ཟད་ལ། །
 DÉ DAG GI YANG SUNG YANG MI ZÉ LA
 With their inexhaustible melodic speech -
-བློ་ཡི་སྟོབས་ཀྱིས་བདག་ཀྱང་རབ་ཏུ་འཇུག །
+བློ་ཡི་སྟོབས་ཀྱིས་བདག་ཀྱང་རབ་ཏུ་འཇུག 
 LO YI TOB KYI DAG KYANG RAB TU JUG
 May I be engaged through the power of my mind.
-མ་འོངས་བསྐལ་པ་ཐམས་ཅད་འཇུག་པར་ཡང༌། །
+མ་འོངས་བསྐལ་པ་ཐམས་ཅད་འཇུག་པར་ཡང༌
 MA ONG KAL PA T'AM CHÉ JUG PAR YANG
 As all future kalpas are engaged in
 སྐད་ཅིག་གཅིག་གིས་བདག་ཀྱང་འཇུག་པར་བགྱི། །
@@ -2393,26 +2209,24 @@ KÉ CHIG CHA SHÉ KYI NI ZHUG PAR CHÉ
 May I engage them in each part of an instant.
 80
 
-
-
-Those lions among humans, appearing in the three times,
 དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་གང་། །
 DU SUM SHEG PA MI YI SENG GÉ GANG
+Those lions among humans, appearing in the three times,
 དེ་དག་སྐད་ཅིག་གཅིག་ལ་བདག་གིས་བལྟ། །
 DÉ DAG KÉ CHIG CHIG LA DAG GI TA
-རྟག་ཏུ་དེ་དག་གི་ནི་སྤྱོད་ཡུལ་ལ། །
 May I see them instantly.
+རྟག་ཏུ་དེ་དག་གི་ནི་སྤྱོད་ཡུལ་ལ། །
 TAG TU DÉ DAG GI NI CHÖ YUL LA
 May I always be engaged in their sphere of experience
 སྒྱུ་མར་གྱུར་པའི་རྣམ་ཐར་སྟོབས་ཀྱིས་འཇུག །
 GYU MAR GYUR PA'I NAM T'AR TOB KYI JUG
 Through the power of illusion-like liberation.
-གང་ཡང་དུས་གསུམ་དག་གི་ཞིང་བཀོད་པ། །
+གང་ཡང་དུས་གསུམ་དག་གི་ཞིང་བཀོད་པ
 GANG YANG DÜ SUM DAG GI ZHING KÖPA
 As many arrays of realms, as exist in the three times,
 དེ་དག་རྡུལ་གཅིག་སྟེང་དུ་མངོན་པར་བསྒྲུབ། །
 DÉ DAO DUL CHIG TENG DU NGÖN PAR DRUB
-May I produce them in a single atom;
+May I produce them in a single atom ;
 དེ་ལྟར་མ་ལུས་ཕྱོགས་རྣམས་ཐམས་ཅད་དུ། །
 DÉ TAR MA LÜ CHOG NAM T'AM CHÉ DU
 Like that, always in all directions,
@@ -2423,8 +2237,6 @@ May I be engaged with the arrays of the buddha realms.
 GANG YANG MA JON JIG TEN DRÖN MA NAM
 Those lamps of the worlds who have not yet appeared
 81
-
-
 
 དེ་དག་རིམ་པར་འཚང་རྒྱ་འཁོར་ལོ་བསྐོར། །
 DÉ DAG RIM PAR TSANG GYA KHOR LO KOR
@@ -2454,18 +2266,16 @@ The power of virtuous merit,
 CHAG PA MÉ PAR GYUR PA'I YÉ SHÉ TOB
 The power of wisdom free from attachments,
 
-
-
-May I purify the power of karma,
 ཤེས་རབ་ཐབས་དང་ཏིང་འཛིན་སྟོབས་དག་གིས། །
 SHÉ RAB T'AB DANG TING DZIN TOB DAG GI
 And the powers of knowledge, methods, and samadhi
-བྱང་ཆུབ་སྟོབས་རྣམས་ཡང་དག་སྒྲུབ་པར་བྱེད། །
+བྱང་ཆུབ་སྟོབས་རྣམས་ཡང་དག་སྒྲུབ་པར་བྱེད
 JANG CHUB TOB NAM YANG DAG DRUB PAR JÉ
 May I perfectly accomplish the power of awakening.
-ལས་ཀྱི་སྟོབས་རྣམས་ཡོངས་སུ་དག་བྱེད་ཅིང་། །
+ལས་ཀྱི་སྟོབས་རྣམས་ཡོངས་སུ་དག་བྱེད་ཅིང་
 LÉ KYI TOB NAM YONG SU DAG JÉ CHING
-ཉོན་མོངས་སྟོབས་རྣམས་ཀུན་ཏུ་འཇོམས་པར་བྱེད། །
+May I purify the power of karma,
+ཉོན་མོངས་སྟོབས་རྣམས་ཀུན་ཏུ་འཇོམས་པར་བྱེད
 NYÖN MONG TOB NAM KUN TU JOM PAR JÉ
 Conquer the power of kleshas,
 བདུད་ཀྱི་སྟོབས་རྣམས་སྟོབས་མེད་རབ་བྱེད་ཅིང་། །
@@ -2473,19 +2283,17 @@ DU KYI TOB NAM TOB MÉ RAB JÉ CHING
 Render powerless the power of maras,
 བཟང་པོ་སྤྱོད་པའི་སྟོབས་ནི་རྫོགས་པར་བགྱི། །
 ZANG PO CHÖ PA'I TOB NI DZOG PAR GYI
+And perfect the power of excellent conduct.
 ཞིང་རྣམས་རྒྱ་མཚོ་རྣམ་པར་དག་བྱེད་ཅིང་། །
 ZHING NAM GYA TSO NAM PAR DAG JÉ CHING
 May I purify oceans of realms,
 སེམས་ཅན་རྒྱ་མཚོ་དག་ནི་རྣམ་པར་སྒྲོལ། །
 SEM CHEN GYA TSO DAG NI NAM PAR DROL
+Liberate oceans of beings,
 ཆོས་རྣམས་རྒྱ་མཚོ་རབ་ཏུ་མཐོང་བྱེད་ཅིང་། །
 CHÖ NAM GYA TSO RAB TU T'ONG JÉ CHING
 Behold oceans of Dharma,
-And perfect the power of excellent conduct.
-Liberate oceans of beings,
 83
-
-
 
 ཡེ་ཤེས་རྒྱ་མཚོ་རབ་ཏུ་རྟོགས་པར་བྱེད། །
 YÉ SHÉ GYA TSO RAB TU TOG PAR JÉ
@@ -2508,7 +2316,7 @@ All the victorious ones who appear in the three times
 བྱང་ཆུབ་སྤྱོད་པའི་སྨོན་ལམ་བྱེ་བྲག་རྣམས། །
 JANG CHUB CHỖ PAIMON LAM JÉ DRAG NAM
 By various aspiration prayers of enlightened conduct,
-བཟང་པོ་སྤྱོད་པས་བྱང་ཆུབ་སངས་རྒྱས་ནས། །
+བཟང་པོ་སྤྱོད་པས་བྱང་ཆུབ་སངས་རྒྱས་ནས
 ZANG PO CHÖ PÉ JANG CHUB SANGYÉ NÉ
 Awaken into enlightenment through the excellent conduct.
 དེ་ཀུན་བདག་གིས་མ་ལུས་རྫོགས་པར་བགྱི། །
@@ -2516,22 +2324,21 @@ DÉ KUN DAG GI MA LÜ DZOG PAR GYI
 May I perfect all of these.
 84
 
-
-
-The eldest son of the victorious ones
-That I may act with skill similar to his,
 རྒྱལ་བ་ཀུན་གྱི་སྲས་ཀྱི་ཐུ་བོ་པ། །
 GYAL WA KUN GYI SÉ KYI T'U WO PA
+The eldest son of the victorious ones
 གང་གི་མིང་ནི་ཀུན་ཏུ་བཟང་ཞེས་བྱ། །
 GANG GI MING NI KUN TU ZANG ZHÉ JA
 Is called Samantabhadra by name.
 མཁས་པ་དེ་དང་མཚུངས་པར་སྤྱད་པའི་ཕྱིར། །
 KHÉ PA DÉ DANG TSUNG PAR CHÉ PA'I CHIR
+That I may act with skill similar to his,
 དགེ་བ་འདི་དག་ཐམས་ཅད་རབ་ཏུ་བསྔོ། །
 GÉ WA DI DAG T'AM CHÉ RAB TU NGO
 I dedicate all this virtue.
 ལུས་དང་ངག་དང་ཡིད་ཀྱང་རྣམ་དག་ཅིང་། །
 LÜ DANG NGAG DANG YI KYANG NAM DAG CHING
+Like his pure body, speech and also mind,
 སྤྱོད་པ་རྣམ་དག་ཞིང་རྣམས་ཡོངས་དག་པ། །
 CHÖ PA NAM DAG ZHING NAM YONG DAG PA
 Pure conduct and perfectly pure realms,
@@ -2544,15 +2351,12 @@ May I also be equal to him in these.
 ཀུན་ནས་དགེ་བ་བཟང་པོ་སྤྱད་པའི་ཕྱིར། །
 KUN NÉ GÉ WA ZANG PO CHÉ PA'I CHIR
 In order to thoroughly perform excellent virtue
-Like his pure body, speech and also mind,
 85
-
-
 
 འཇམ་དཔལ་གྱི་ནི་སྨོན་ལམ་སྤྱད་པར་བགྱི། །
 JAM PAL GYI NI MON LAM CHÉ PAR GYI
 May I act according to the aspiration prayers of Manjushri.
-མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་མི་སྐྱོ་བར། །
+མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་མི་སྐྱོ་བར
 MA ONG KAL PA KUN TU MI KYO WAR
 Not tiring throughout future kalpas,
 དེ་ཡི་བྱ་བ་མ་ལུས་རྫོགས་པར་བགྱི། །
@@ -2577,8 +2381,6 @@ As far as the limits of space,
 SEM CHEN MA LÜ T'A YANG DÉ ZHIN TÉ
 Thus far do sentient ones extend;
 86
-
-
 
 ཇི་ཙམ་ལས་དང་ཉོན་མོངས་མཐར་གྱུར་པ། ། །
 JI TSAM LÉ DANG NYON MONG T'AR GYUR PA
@@ -2609,8 +2411,6 @@ LEN CHIG TSAM YANG DÉ PA KYÉ PA NA
 and gives rise to faith,
 87
 
-
-
 བསོད་ནམས་དམ་པའི་མཆོག་ཏུ་འདི་འགྱུར་རོ། །
 SO NAM DAM PA'I CHOG TU DI GYUR RO
 Their true merit will be most supreme.
@@ -2640,12 +2440,10 @@ DÉ DAG RING POR MI T'OG DÉ ZHIN GYUR
 Before long will they become.
 88
 
-
-
 མཚམས་མེད་ལྔ་པོ་དག་གི་སྡིག་པ་རྣམས། །
 TSAM MÉ NGA PO DAG GI DIG PA NAM
 All evil, even the five acts of immediate consequence,
-གང་གིས་མི་ཤེས་དབང་གིས་བྱས་པ་དག །
+གང་གིས་མི་ཤེས་དབང་གིས་བྱས་པ་དག 
 GANG GI MI SHÉ WANG GI JÉ PA DAG
 Whatever has been done through the power of not knowing,
 དེ་ཡིས་བཟང་པོ་སྤྱོད་པ་འདི་བརྗོད་ན། །
@@ -2657,7 +2455,7 @@ Will be quickly purified.
 ཡེ་ཤེས་དང་ནི་གཟུགས་དང་མཚན་རྣམས་དང་། །
 YÉ SHÉ DANG NI ZUG DANG TSEN NAM DANG
 They will possess wisdom, beauty and the signs,
-རིགས་དང་ཁ་དོག་རྣམས་དང་ལྡན་པར་འགྱུར། །
+རིགས་དང་ཁ་དོག་རྣམས་དང་ལྡན་པར་འགྱུར
 RIG DANG KHA DOG NAM DANG DEN PAR GYUR
 Be of good family and have a fine complexion.
 བདུད་དང་མུ་སྟེགས་མང་པོས་དེ་མི་ཐུབ། །
@@ -2665,15 +2463,13 @@ DÙ DÀNG MU TEG MANG PỖ DẺ MI TUB
 They will not be overpowered by maras or tirthikas;
 འཇིག་རྟེན་གསུམ་པོ་ཀུན་ནའང་མཆོད་པར་འགྱུར། །
 JIG TEN SUM PO KUN NA'ANG CHÖ PAR GYUR
-The three worlds will make offerings to them.
+The three worlds will make offerings to them .
 བྱང་ཆུབ་ཤིང་དབང་དྲུང་དུ་དེ་མྱུར་འགྲོ། །
 JANG CHUB SHING WANG DRUNG DU DÉ NYUR DRO
 They will soon go before the bodhi tree;
 89
 
-
-
-སོང་ནས་སེམས་ཅན་ཕན་ཕྱིར་དེར་འདུག་སྟེ། །
+སོང་ནས་སེམས་ཅན་ཕན་ཕྱིར་དེར་འདུག་སྟེ
 SONG NÉ SEM CHEN PHEN CHIR DER DUG TÉ
 Having gone there, they will sit to benefit beings,
 བྱང་ཆུབ་སངས་རྒྱས་འཁོར་ལོ་རབ་ཏུ་བསྐོར། །
@@ -2702,9 +2498,6 @@ KUN TU ZANG PO DÉ YANG DÉ ZHIN TÉ
 So is that of Samantabhadra.
 90
 
-
-
-The victorious ones who appear in the three times
 དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་སློབ་ཕྱིར། །
 DÉ DAG KUN GYI JÉ SU DAG LOB CHIR
 Following in their footsteps so that I may learn,
@@ -2713,6 +2506,7 @@ GÉ WA DI DAG T'AM CHÉ RAB TU NGO
 I utterly dedicate all this supreme virtue.
 དུས་གསུམ་གཤེགས་པའི་རྒྱལ་བ་ཐམས་ཅད་ཀྱིས། །
 DÜ SUM SHEG PA'I GYAL WA T'AM CHÉ KYI
+The victorious ones who appear in the three times
 བསྔོ་བ་གང་ལ་མཆོག་ཏུ་བསྔགས་པ་དེས། །
 NGO WA GANG LA CHOG TU NGAG PA DÉ
 Praises these dedications as supreme,
@@ -2733,9 +2527,6 @@ NGÖN SUM NANG WA T'A YÉ DÉ T'ONG NÉ
 Seeing Amitabha directly
 91
 
-
-
-All these aspiration prayers,
 བདེ་བ་ཅན་གྱི་ཞིང་དེར་རབ་ཏུ་འགྲོ། །
 DÉ WA CHEN GYI ZHING DER RAB TU DRO
 May I go to his realm of Sukhavati.
@@ -2744,6 +2535,7 @@ DER SONG NÉ NI MON LAM DI DAG KYANG
 Having gone there, may I actualize
 ཐམས་ཅད་མ་ལུས་མངོན་དུ་འགྱུར་བར་ཤོག །
 T'AM CHÉ MA LÜ NGÖN DU GYUR WAR SHOG
+All these aspiration prayers,
 དེ་དག་མ་ལུས་བདག་གིས་ཡོངས་སུ་བཀང་། །
 DÉ DAG MA LÜ DAG GI YONG SU KANG
 Fulfill them completely,
@@ -2752,19 +2544,17 @@ JIG TEN JI SI SEM CHEN PHEN PAR GYI
 And benefit beings for as long as worlds exist.
 རྒྱལ་བའི་དཀྱིལ་འཁོར་བཟང་ཞིང་དགའ་བ་དེར། །
 GYAL WA'I KYIL KHOR ZANG ZHING GA WA DER
+In that excellent and joyous madala of the Victorious One,
 པདྨོ་དམ་པ་ཤིན་ཏུ་མཛེས་ལས་སྐྱེས། །
 PÉMO DAM PA SHIN TU DZÉ LÉ KYÉ
 May I be born within a beautiful lotus;
 སྣང་བ་མཐའ་ཡས་རྒྱལ་བས་མངོན་སུམ་དུ། ། །
 NANG WA T'A YÉ GYAL WÉ NGÖN SUM DU
 And from the Victorious One Amitabha directly
-ལུང་བསྟན་པ་ཡང་བདག་གིས་དེར་ཐོབ་ཤོག །
+ལུང་བསྟན་པ་ཡང་བདག་གིས་དེར་ཐོབ་ཤོག 
 LUNG TEN PA YANG DAG GI DER T'OB SHOG
 May I receive a prophecy.
-In that excellent and joyous madala of the Victorious One,
 92
-
-
 
 དེར་ནི་བདག་གིས་ལུང་བསྟན་རབ་ཐོབ་ནས། །
 DER NI DAG GI LUNG TEN RAB T'OB NÉ
@@ -2775,7 +2565,7 @@ With many billions of emanations,
 བློ་ཡི་སྟོབས་ཀྱིས་ཕྱོགས་བཅུ་རྣམས་སུ་ཡང་། །
 LO YI TOB KYI CHOG CHU NAM SU YANG
 Though the power of my mind,
-སེམས་ཅན་རྣམས་ལ་ཕན་པ་མང་པོ་བགྱི། །
+སེམས་ཅན་རྣམས་ལ་ཕན་པ་མང་པོ་བགྱི
 SEM CHEN NAM LA PHEN PA MANG PO GYI
 May I benefit all beings in the ten directions.
 བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་བཏབ་པ་ཡི། །
@@ -2794,8 +2584,6 @@ Be accomplished instantly.
 GANG YANG ZANG PO CHÖ PA DI NGÖ PÉ
 Having dedicated this excellent conduct —
 93
-
-
 
 བསོད་ནམས་མཐའ་ཡས་དམ་པ་གང་ཐོབ་དེས། །
 SO NAM T'A YÉ DAM PA GANG T'OB DÉ
@@ -2818,25 +2606,22 @@ Completing this scripture adorned by Samantabhadra,
 ངན་སོང་གནས་རྣམས་མ་ལུས་སྟོངས་པར་ཤོག །
 NGEN SONG NÉ NAM MA LÜ TONG PAR SHOG
 May the lower realms be empty.
-འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ་རྫོགས་སོ། །རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། སུ་
+འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ་རྫོགས་སོ། ། རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། སུ་
 རེནྡྲ་བོ་དྷི་དང་། ལོ་ཙ་བ་བནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། །།
 This noble aspiration prayer of Samantabhadra is now complete. This translation and correction (from
 Sanskrit into Tibetan) was made by the Indian pandits Dzinmitra and Surendra Bodhi, and the translator,
 the monk, Yeshe De and others.
 94
 
-
-
-MPLISI
-IRATIONS
 སྨོན་ལམ་འགྲུབ་པའི་བདེན་ཚིག
-WORDS OF TRUTH TO ACCOMPLISH ASPIRATIONS
+WORDS OF TRUTH TO ACCOMPLISH MPLISI
+ ASPIRATIONSIRATIONS
 སངས་རྒྱས་སྐུ་གསུམ་བརྙེས་པའི་བྱིན་རླབས་དང་། །
 SANGYÉ KU SUM NYÉ PA'I JIN LAB DANG
+By the blessings of the buddhas who have attained the three kayas,
 ཆོས་ཉིད་མི་འགྱུར་བདེན་པའི་བྱིན་རླབས་དང་། །
 CHÖ NYI MI GYUR DEN PA'I JIN LAB DANG
 And the unchanging truth of reality
-By the blessings of the buddhas who have attained the three kayas,
 དགེ་འདུན་མི་ཕྱེད་འདུན་པའི་བྱིན་རླབས་ཀྱིས། །
 GÉ DUN MÉ CHÉ DUN PA'I JIN LAB KYI
 As well as the unwavering aspirations of the Sangha,
@@ -2848,8 +2633,6 @@ THE DHARANI FOR THE ACCOMPLISHMENT OF ALL ASPIRATIONS
 ཏདྱ་ཐཱ། པཉྩ་དྲི་ཡ་ཨ་ཝ་བོ་དྷ་ན་ཡེ་སྭཱ་ཧཱ།
 TA DYA THA PEN CHA DRI YA AWA BODHA NA YÉ SO HA
 95
-
-
 
 ༄༅། །བདེ་སྨོན་བསྡུས་པ། །
 BRIEF SUKHAVATI PRAYER
@@ -2871,7 +2654,7 @@ There is miraculous, immeasurable happiness and joy
 བདེ་བ་ཅན་ཞེས་བྱ་བའི་ཞིང་ཁམས་དེར། །
 DÉ WA CHEN ZHÉ JA WA'I ZHING KHAM DER
 In the buddha field called Dewachen.
-བདག་ནི་འདི་ནས་ཚེ་འཕོས་གྱུར་མ་ཐག །
+བདག་ནི་འདི་ནས་ཚེ་འཕོས་གྱུར་མ་ཐག 
 DAG NI DI NÉ TSÉ PHÖ GYUR MA T'AG
 When I pass from this life,
 སྐྱེ་བ་གཞན་གྱིས་བར་མ་ཆོད་པ་རུ། །
@@ -2879,11 +2662,9 @@ KYÉ WA ZHEN GYI BAR MA CHÖ PA RU
 Without taking another birth,
 96
 
-
-
-May I be instantly reborn in Dewachen and see Amitabha's face.
 དེ་རུ་སྐྱེས་ནས་སྣང་མཐའི་ཞལ་མཐོང་ཤོག །
 DÉ RU KYÉ NÉ NANG T'É'I ZHAL T'ONG SHOG
+May I be instantly reborn in Dewachen and see Amitabha's face.
 འདི་སྐད་བདག་གིས་སྨོན་ལམ་བཏབ་པ་ཡིས། །
 DI KÉ DAG GI MON LAM TAB PA YI
 Having made this aspiration prayer,
@@ -2897,38 +2678,34 @@ May I be blessed with unhindered accomplishment.
 TA DYA THA PEN CHA DRI YA AWA BODHA NA YÉ SO HA
 97
 
-
-
-༄༅། །ཚེ་རབས་རྗེས་འཛིན་གསོལ་འདེབས།
+༄༅། ། ཚེ་རབས་རྗེས་འཛིན་གསོལ་འདེབས།
 PRAYER TO THE GURU
 TO BE TAKEN CARE OF THROUGHOUT ALL LIFETIMES
-The victorious ones of the three times who have gone to bliss
-Appear to me in the form of a sublime teacher.
-Holding the treasure of ocean-like qualities, your kindness is unequaled.
 ༈ དུས་གསུམ་གཤེགས་པའི་རྒྱལ་བ་ཐམས་ཅད་ཀུན། །
 DU SUM SHEG PA'I GYAL WA T'AM CHÉ KUN
-རང་ངོར་བཤེས་གཉེན་མཆོག་གི་སྐུར་སྣང་བ། །
+The victorious ones of the three times who have gone to bliss
+རང་ངོར་བཤེས་གཉེན་མཆོག་གི་སྐུར་སྣང་བ
 RANG NGOR SHÉ NYEN CHOG GI KUR NANG WA
+Appear to me in the form of a sublime teacher.
 བཀའ་དྲིན་མཚུངས་བྲལ་ཡོན་ཏན་རྒྱ་མཚོའི་གཏེར། །
 KA DRIN TSHUNG DRAL YÖN TEN GYA TSO'I TER
+Holding the treasure of ocean-like qualities, your kindness is unequaled.
 ཡིད་བཞིན་ནོར་བུ་ཁྱེད་ལ་གསོལ་བ་འདེབས། །
 YI ZHIN NORBU KHYÉ LA SOL WA DEB
+I pray to you, precious wish-fulling gem!
 ཁྱེད་ཀྱིས་འགྲོ་འདུལ་ཐབས་མཁས་སྤྱོད་པ་ནི། །
 KHYE KYI DRO DUL TAB KHÉ CHỖ PA NI
+Whatever varied skillful methods and activities
 རྣམ་པ་སྣ་ཚོགས་ཇི་ལྟར་བསྟན་བྱས་ཀྱང་། །
 NAM PA NA TSOG JI TAR TEN JÉ KYANG
 You employ to tame beings,
 སྐད་ཅིག་ཙམ་ཡང་ལོག་ལྟ་མི་སྐྱེ་བར། །
 KYÉ CHIG TSAM YANG LOG TA MI KYÉ WAR
-ཇི་མཛད་ལེགས་པར་མཐོང་བར་བྱིན་གྱིས་རློབས། །
-I pray to you, precious wish-fulling gem!
-Whatever varied skillful methods and activities
 Let wrong views not arise for even an instant,
+ཇི་མཛད་ལེགས་པར་མཐོང་བར་བྱིན་གྱིས་རློབས། །
 JI DZÉ LEG PAR T'ONG WAR JIN GYI LOB
 Please bless me to perceive your every action as perfect!
 98
-
-
 
 གང་གིས་བརྩེ་བར་གདམས་པའི་གསུང་བཟང་ལས། །
 GANG GI TSÉ WAR DAM PA'I SUNG ZANG LÉ
@@ -2956,10 +2733,8 @@ JANG CHUB CHÖ LA NYAM DU JUG PAR SHOG
 Follow the bodhisattva conduct as well as you do!
 ནམ་ཞིག་རང་སྣང་དག་པའི་ཞིང་མཆོག་ཏུ། །
 NAM ZHIG RANG NANG DAG PA'I ZHING CHOG TU
-In the self-appearing pure and sublime realm,
+In the self-appearing pure and sublime realm ,
 99
-
-
 
 རྗེ་ཁྱོད་མངོན་འཚང་རྒྱ་བའི་ཚུལ་སྟོན་ཚེ། །
 JÉ KHYÖ NGON TSANG GYA WA'I TSUL TÖN TSÉ
@@ -2988,11 +2763,9 @@ May you stir the realms of beings from their depths.
 ལེགས་པར་བཀླུབས་བྱས་ན། །རབ་སྙན་གཏམ་ལ་ཟད་མཐའ་མེད་མོད་ཀྱང་། །བཅུད་མེད་ཟས་མང་ཕོ་
 100
 
-
-
 བའི་གཤེད་དུ་གྱུར། །གོས་མེད་ལྷགས་པས་སོར་མོ་དམ་པོར་འཁྱུད། །བཤེས་མེད་ས་མཐར་འཁྱམས་
-པས་ཡིད་སྐྱོ་ནས། །དོན་མེད་སྨྲ་བ་མང་པོ་བཞག་ན་སྙམ། །ཞེས་གྲང་ངར་གྱིས་ཧ་ཅང་གདུངས་ནས་སོར་
-མོ་རྣམས་ཀྱང་གུམ་གུམ་པོར་གྱུར་ཚེ་ངག་དབང་བློ་གྲོས་མཚུངས་མེད་པས་བྲིས་པའོ། །འདི་ཡང་རི་བོ་རྩེ་
+པས་ཡིད་སྐྱོ་ནས། །དོན་མེད་སྨྲ་བ་མང་པོ་བཞག་ན་སྙམ། ། ཞེས་གྲང་ངར་གྱིས་ཧ་ཅང་གདུངས་ནས་སོར་
+མོ་རྣམས་ཀྱང་གུམ་གུམ་པོར་གྱུར་ཚེ་ངག་དབང་བློ་གྲོས་མཚུངས་མེད་པས་བྲིས་པའོ། ། འདི་ཡང་རི་བོ་རྩེ་
 ལྔ་ནས་སོ། །
 Although Rigdrol, the noble son who accompanied me during all my days, requested me — an
 old man whose time is coming to end — to write this supplication to be Cared for Throughout
@@ -3006,8 +2779,6 @@ Tormented by extreme cold, with my fingers frozen and rigid, I, Ngawang Lodroe T
 wrote this at Wu Tai Shan.
 101
 
-
-
 དེ་ལྟར་འགྲུབ་པར་བྱེད་པའང་དཀོན་མཆོག་གསུམ་གྱི་བདེན་པ་དང༌། །
 DÉ TAR DRUB PAR JÉ PA'ANG KÖN CHOG SUM GYI DEN PA
 DANG
@@ -3019,25 +2790,21 @@ LAB DANG
 The blessings of all the buddhas and bodhisattvas,
 ཚོགས་གཉིས་ཡོངས་སུ་རྫོགས་པའི་མངའ་ཐང་ཆེན་པོ་དང༌།
 TSOG NYI YONG SU DZOG PA'I NGA T'ANG CHEN PO DANG
+The great power of the perfect completion of the two accumulations, and
 ཆོས་ཀྱི་དབྱིངས་རྣམ་པར་དག་ཅིང་བསམ་གྱིས་མི་ཁྱབ་པའི་སྟོབས་ཀྱིས་
 དེ་དེ་བཞིན་འགྲུབ་པར་གྱུར་ཅིག །
-The great power of the perfect completion of the two accumulations, and
 CHÖ KYI YING NAM PAR DAG CHING SAM GYI MI KHYAB PA'I
 TOB KYI DÉ DÉ ZHIN DU DRUB PAR GYUR CIG
 The power of the extremely pure and unfathomable dharmadhatu; may it be
 accomplished in that very way!
 102
 
-
-
-** OOR
-OOO
+OOR
+ OOO
 Guru Rinpoche statue at Nga Yab Pema Od Ling temple, Yangleshod, Nepal
 103
 
-
-
-Khenpo Nandrol Rinpoche on 29 August 2009 at Ngayab Pema Od Ling said: "This
+Khenpo Nandrol Rinpoche on 29 August 2009 at Ngayab Pema Od Ling said: " This
 prayer teaches that in general all the buddhas of the three times and Guru
 Padmasambhava are of the same mind lineage. In particular while the Dharmakaya
 Amitabha, Sambhogakaya Chenresig and Nirmanakaya Padmasambhava appear different
@@ -3045,7 +2812,7 @@ in form their mind lineage is the same. Dharmakaya Samantabhadra, Sambhogakava
 Vajradhara and Nirmanakaya Shakyamuni, these three, are also not different from Guru
 Rinpoche himself. Thus, if you make prayers to Guru Rinpoche his power and blessings
 are swifter than other Buddhas; and in this time it we supplicate Guru Rinpoche different
-kinds of disease, war and famine will be pacified. Orgyen Lingpa of the 14th century has
+kinds of disease, war and famine will be pacified . Orgyen Lingpa of the 14th century has
 given the reason in this treasure."
 ORGYEN LINGPA'S TREASURE FROM SAMYE CHIMPU
 In this time, due to my special compassionate enlightened activities
@@ -3053,17 +2820,18 @@ My compassion will be swifter than that of other buddhas.
 Pray to me and act according to my instructions.
 If this is untrue, I have deceived the 25 main disciples.
 At first, I am Amitabha, Infinite Light;
-'On Potala mountain, Chenresig;
+'On Potala mountain , Chenresig;
 In Lake Danakosha, Padmasambhava.
 Distinctively I appear as the three kayas.
-In truth, there is no difference among them.
+In truth, there is no difference among them .
 In Dharmakaya, I am Samantabhadra
 In Akanishta, Vajradhara
 In Bodhgaya, the great Shakyamuni.
 All are nondual and spontaneously present within me.
 If you pray to me continuously,
 You can reverse the negative time of the ten-year lifespan.
-Orgyen Lingpa (1323-1360) revealed this from Samye Chimpu.
+Orgyen Lingpa (1323- 1360) revealed this from Samye Chimpu.
 PALRI PARKHANG
 GEOSHUISELINTANETEN
 དཔལ་རི་པར་ཁང་།
+
